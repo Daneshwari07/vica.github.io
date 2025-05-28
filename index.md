@@ -8,7 +8,7 @@
 
 **University:** KLE Technological University, Hubli
 
-**Portfolio domain:** Vica
+**Portfolio domain:** Visa
 
 <!-- ### Contents
 1. [Introduction](#introduction) – Domain intro 🌱  
