@@ -26,11 +26,7 @@
   <a href="#contact" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Contact</a>
 </div> -->
 
-<!-- Navigation Bar -->
-<div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f0f0f0; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-  <a href="#home" style="padding:10px 20px; background-color:#ffffff; border:2px solid #ccc; border-radius:10px; text-decoration:none; font-weight:bold; color:#000;">Home</a>
-  <a href="#about" style="padding:10px 20px; background-color:#ffffff; border:2px solid #ccc; border-radius:10px; text-decoration:none; font-weight:bold; color:#000;">About</a>
-</div>
+
 
 <!-- Introduction Section -->
 <div id="home" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
