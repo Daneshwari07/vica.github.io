@@ -20,9 +20,9 @@
 ---
 # 1.Introduction
 <p align="center">
-  <img src="https://github.com/jiyapalrecha35/Google.github.io/blob/main/images/Screenshot%202024-07-05%20141324.png?raw=true" alt="Google Infrastructure Screenshot">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot 2025-05-28 015532.png?raw=true" alt="Visa servies Screenshot">
   <br>
-  [5] Google and the various services provided
+  [1] Visa and various services 
   <br>
 </p><br>
 
