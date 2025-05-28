@@ -76,7 +76,7 @@ The services provided by Visa include:
 ### **Visa-Direct**
 **Visa-Direct**, supports real-time payments and is expected to help facilitate over $10 trillion in global money movement by 2026 [3].This highlights the need of root-optimized algorithms to handle data efficiently.
 
-###**Tap-to-Pay**
+### **Tap-to-Pay**
 **Tap-to-pay**, now account for more than 50% of Visa face-to-face transactions globally as of 2023 [4].This rapid tap-to-pay growth highlights the need for ultra-fast, low-latency algorithms that enable instant transaction validation and tokenized security.
 
 
