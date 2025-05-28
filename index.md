@@ -1,4 +1,4 @@
-**Course Name:** Algorithmic Problem Solving
+<!-- **Course Name:** Algorithmic Problem Solving
 
 **Course Code:** 23ECSE309
 
@@ -8,7 +8,7 @@
 
 **University:** KLE Technological University, Hubli
 
-**Portfolio domain:** Vica
+**Portfolio domain:** Vica--!
 
 <!-- ### Contents
 1. [Introduction](#introduction) – Domain intro 🌱  
