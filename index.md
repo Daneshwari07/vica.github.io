@@ -16,13 +16,28 @@
 3. [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)  
 4. [Key Learning](#learnings) – Takeaways 🧠-->
 
-<div style="background-color:#f2f2f2;padding:10px;border-radius:10px;text-align:center;">
-  <a href="index.md" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Home</a>
-  <a href="#introduction" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">About Me</a>
-  <a href="#objectives" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Objectives</a>
-  <a href="#learnings" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Learnings</a>
-  <a href="mailto:your.email@example.com" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Contact</a>
+<!-- Navigation Bar -->
+<div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f5f5f5; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <a href="#home" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Home</a>
+  <a href="#about" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">About</a>
+  <a href="#skills" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Skills</a>
+  <a href="#domain" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Domain</a>
+  <a href="#projects" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Projects</a>
+  <a href="#contact" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Contact</a>
 </div>
+
+<!-- Introduction Section -->
+<div style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+  <h2 style="font-weight:bold;">Welcome to My Portfolio</h2>
+  <p style="font-size:16px; color:#333; line-height:1.6;">
+    I'm <strong>Daneshwari Hanagandi</strong>, a passionate student from <strong>KLE Technological University, Hubli</strong>, currently enrolled in the Algorithmic Problem Solving course.
+    This portfolio reflects the knowledge, skills, and algorithmic thinking I’ve gained as part of my engineering journey.
+  </p>
+  <p style="font-size:16px; color:#333; line-height:1.6;">
+    This is more than just a collection of projects—it’s a window into how I approach problems creatively and analytically. I’m excited to continue learning, building impactful solutions, and growing in the tech industry.
+  </p>
+</div>
+
 
 
 
