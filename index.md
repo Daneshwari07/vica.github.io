@@ -36,15 +36,7 @@
     This portfolio reflects the knowledge, skills, and algorithmic thinking I’ve gained as part of my engineering journey.
   </p>
   <p style="font-size:16px; color:#333; line-height:1.6;">
-    This is more than just a collection of project it’s a window into how I approach problems creatively and analytically. I’m excited to continue learning, building impactful solutions, and growing in the tech industry.
-  </p>
-</div>
-
-<!-- About Me Section -->
-<div id="about" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
-  <h2 style="font-weight:bold;">About Me</h2>
-  <p style="font-size:16px; color:#333; line-height:1.6;">
-    As a passionate Computer Science graduate with hands-on experience in Machine Learning, Deep Learning, and intelligent system design, I am driven by the transformative potential of AI in shaping secure, seamless digital experiences.
+     As a passionate Computer Science graduate with hands-on experience in Machine Learning, Deep Learning, and intelligent system design, I am driven by the transformative potential of AI in shaping secure, seamless digital experiences.
     My projects ranging from medical image classification using deep learning to enhancing speech quality using AI have strengthened my skills in building real-world, data-driven solutions.
     I enjoy solving complex problems that require a mix of innovation, performance, and responsibility.
     Visa’s commitment to tech-driven global impact and innovation resonates strongly with my values, and I’m eager to contribute meaningfully to your mission of enabling trusted, intelligent digital commerce worldwide.
