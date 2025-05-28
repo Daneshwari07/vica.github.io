@@ -36,7 +36,7 @@
     This portfolio reflects the knowledge, skills, and algorithmic thinking I’ve gained as part of my engineering journey.
   </p>
   <p style="font-size:16px; color:#333; line-height:1.6;">
-    This is more than just a collection of projects—it’s a window into how I approach problems creatively and analytically. I’m excited to continue learning, building impactful solutions, and growing in the tech industry.
+    This is more than just a collection of project it’s a window into how I approach problems creatively and analytically. I’m excited to continue learning, building impactful solutions, and growing in the tech industry.
   </p>
 </div>
 
@@ -56,6 +56,7 @@
 ---
 
 # 1.Introduction
+<div id="domain" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot%202025-05-28%20015532.png?raw=true" 
        alt="Visa services Screenshot" 
@@ -63,8 +64,7 @@
   <br>
   [1] Visa and various services 
 </p>
-
-
-Visa, a global leader in digital payments, offers a secure transfer of funds across the world through its advanced financial network.These include VisaNet, Visa Direct,Contactless payments,Ecommerce payment solutions.Visa plays a key role in the future of financial technology,making it a great example of how algorithms and data structures can improve transaction speed,prevend fraud and create a better experience for customers at a global scale.
+<p>Visa, a global leader in digital payments, offers a secure transfer of funds across the world through its advanced financial network.These include VisaNet, Visa Direct,Contactless payments,Ecommerce payment solutions.Visa plays a key role in the future of financial technology,making it a great example of how algorithms and data structures can improve transaction speed,prevend fraud and create a better experience for customers at a global scale.</p>
+</div>
 
 
