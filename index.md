@@ -56,7 +56,7 @@
 ---
 
 # 1.Introduction
-<div id="domain" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+<div id="domain">
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot%202025-05-28%20015532.png?raw=true" 
        alt="Visa services Screenshot" 
