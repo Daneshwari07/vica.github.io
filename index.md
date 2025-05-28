@@ -17,14 +17,14 @@
 4. [Key Learning](#learnings) – Takeaways 🧠-->
 
 <!-- Navigation Bar -->
-<!--div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f5f5f5; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f5f5f5; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
   <a href="#home" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Home</a>
   <a href="#about" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">About</a>
   <a href="#skills" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Skills</a>
   <a href="#domain" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Domain</a>
   <a href="#projects" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Projects</a>
   <a href="#contact" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Contact</a>
-</div> -->
+</div> 
 
 
 
