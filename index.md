@@ -20,9 +20,11 @@
 ---
 # 1.Introduction
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot 2025-05-28 015532.png?raw=true" alt="Visa servies Screenshot">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot%202025-05-28%20015532.png?raw=true" 
+       alt="Visa services Screenshot" 
+       width="500"> 
   <br>
   [1] Visa and various services 
-  <br>
-</p><br>
+</p>
+
 
