@@ -10,11 +10,20 @@
 
 **Portfolio domain:** Vica
 
-### Contents
+<!-- ### Contents
 1. [Introduction](#introduction) – Domain intro 🌱  
 2. [Objectives](#objectives) – Goals and targets 🎯  
 3. [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)  
-4. [Key Learning](#learnings) – Takeaways 🧠
+4. [Key Learning](#learnings) – Takeaways 🧠-->
+
+<div style="background-color:#f2f2f2;padding:10px;border-radius:10px;text-align:center;">
+  <a href="index.md" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Home</a>
+  <a href="#introduction" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">About Me</a>
+  <a href="#objectives" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Objectives</a>
+  <a href="#learnings" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Learnings</a>
+  <a href="mailto:your.email@example.com" style="margin:10px;text-decoration:none;color:#333;font-weight:bold;">Contact</a>
+</div>
+
 
 
 ---
