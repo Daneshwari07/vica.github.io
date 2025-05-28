@@ -29,7 +29,7 @@
 
 
 <!-- Introduction Section -->
-<div id="home">
+<div id="home" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">Welcome to My Portfolio</h2>
   <p style="font-size:16px; color:#333; line-height:1.6;">
     I'm <strong>Daneshwari Hanagandi</strong>, a passionate student from <strong>KLE Technological University, Hubli</strong>, currently enrolled in the Algorithmic Problem Solving course.
@@ -41,7 +41,7 @@
 </div>
 
 <!-- About Me Section -->
-<div id="about">
+<div id="about" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">About Me</h2>
   <p style="font-size:16px; color:#333; line-height:1.6;">
     As a passionate Computer Science graduate with hands-on experience in Machine Learning, Deep Learning, and intelligent system design, I am driven by the transformative potential of AI in shaping secure, seamless digital experiences.
