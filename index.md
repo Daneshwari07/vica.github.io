@@ -63,6 +63,14 @@
   [1] Visa and various services 
 </p>
 <p>Visa, a global leader in digital payments, offers a secure transfer of funds across the world through its advanced financial network.These include VisaNet, Visa Direct,Contactless payments,Ecommerce payment solutions.Visa plays a key role in the future of financial technology,making it a great example of how algorithms and data structures can improve transaction speed,prevend fraud and create a better experience for customers at a global scale.</p>
+The services provided by Visa include:
+- **VisaNet** : Global payment processing network.
+- **Visa Direct** : Real-time payment transfer.
+- **Visa Cards** : Used for payments.
+- **Contactless payments** : Tap-to pay transactions.
+- **Fraud Protection**: Keeps card details safe.
+
+
 
 
 
