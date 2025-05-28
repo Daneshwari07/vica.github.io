@@ -27,7 +27,7 @@
 </div>
 
 <!-- Introduction Section -->
-<div style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+<div id="home" style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">Welcome to My Portfolio</h2>
   <p style="font-size:16px; color:#333; line-height:1.6;">
     I'm <strong>Daneshwari Hanagandi</strong>, a passionate student from <strong>KLE Technological University, Hubli</strong>, currently enrolled in the Algorithmic Problem Solving course.
@@ -38,7 +38,10 @@
   </p>
 </div>
 
-
+<div id="about" style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+  <h2 style="font-weight:bold;">About Me</h2>
+  <p>I enjoy learning new technologies, solving algorithmic problems, and working on real-world applications. My interests lie in web development, DSA, and AI...</p>
+</div>
 
 
 ---
