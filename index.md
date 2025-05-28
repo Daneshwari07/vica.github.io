@@ -1,4 +1,4 @@
-<!-- **Course Name:** Algorithmic Problem Solving
+**Course Name:** Algorithmic Problem Solving
 
 **Course Code:** 23ECSE309
 
@@ -8,7 +8,7 @@
 
 **University:** KLE Technological University, Hubli
 
-**Portfolio domain:** Vica--!
+**Portfolio domain:** Vica
 
 <!-- ### Contents
 1. [Introduction](#introduction) – Domain intro 🌱  
@@ -29,7 +29,7 @@
 
 
 <!-- Introduction Section -->
-<div id="home" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+<!-- <div id="home" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">Welcome to My Portfolio</h2>
   <p style="font-size:16px; color:#333; line-height:1.6;">
     I'm <strong>Daneshwari Hanagandi</strong>, a passionate student from <strong>KLE Technological University, Hubli</strong>, currently enrolled in the Algorithmic Problem Solving course.
@@ -41,7 +41,7 @@
     I enjoy solving complex problems that require a mix of innovation, performance, and responsibility.
     Visa’s commitment to tech-driven global impact and innovation resonates strongly with my values, and I’m eager to contribute meaningfully to your mission of enabling trusted, intelligent digital commerce worldwide.
   </p>
-</div>
+</div>-->
 
 ---
 
@@ -54,7 +54,6 @@
 ---
 
 # 1.Introduction
-<div id="domain">
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot%202025-05-28%20015532.png?raw=true" 
        alt="Visa services Screenshot" 
@@ -63,6 +62,6 @@
   [1] Visa and various services 
 </p>
 <p>Visa, a global leader in digital payments, offers a secure transfer of funds across the world through its advanced financial network.These include VisaNet, Visa Direct,Contactless payments,Ecommerce payment solutions.Visa plays a key role in the future of financial technology,making it a great example of how algorithms and data structures can improve transaction speed,prevend fraud and create a better experience for customers at a global scale.</p>
-</div>
+
 
 
