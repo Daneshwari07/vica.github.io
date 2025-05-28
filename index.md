@@ -17,17 +17,23 @@
 4. [Key Learning](#learnings) – Takeaways 🧠-->
 
 <!-- Navigation Bar -->
-<div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f5f5f5; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<!--div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f5f5f5; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
   <a href="#home" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Home</a>
   <a href="#about" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">About</a>
   <a href="#skills" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Skills</a>
   <a href="#domain" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Domain</a>
   <a href="#projects" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Projects</a>
   <a href="#contact" style="padding:10px 20px; background:white; border-radius:10px; text-decoration:none; font-weight:bold; color:#000; box-shadow:0 2px 5px rgba(0,0,0,0.1);">Contact</a>
+</div> -->
+
+<!-- Navigation Bar -->
+<div style="display:flex; justify-content:center; gap:20px; padding:20px; background-color:#f0f0f0; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <a href="#home" style="padding:10px 20px; background-color:#ffffff; border:2px solid #ccc; border-radius:10px; text-decoration:none; font-weight:bold; color:#000;">Home</a>
+  <a href="#about" style="padding:10px 20px; background-color:#ffffff; border:2px solid #ccc; border-radius:10px; text-decoration:none; font-weight:bold; color:#000;">About</a>
 </div>
 
 <!-- Introduction Section -->
-<div id="home" style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+<div id="home" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">Welcome to My Portfolio</h2>
   <p style="font-size:16px; color:#333; line-height:1.6;">
     I'm <strong>Daneshwari Hanagandi</strong>, a passionate student from <strong>KLE Technological University, Hubli</strong>, currently enrolled in the Algorithmic Problem Solving course.
@@ -38,10 +44,17 @@
   </p>
 </div>
 
-<div id="about" style="background:white; padding:30px; border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
+<!-- About Me Section -->
+<div id="about" style="background:white; padding:30px; border:2px solid #ddd; border-radius:15px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top:30px; max-width:800px; margin-left:auto; margin-right:auto;">
   <h2 style="font-weight:bold;">About Me</h2>
-  <p>I enjoy learning new technologies, solving algorithmic problems, and working on real-world applications. My interests lie in web development, DSA, and AI...</p>
+  <p style="font-size:16px; color:#333; line-height:1.6;">
+    As a passionate Computer Science graduate with hands-on experience in Machine Learning, Deep Learning, and intelligent system design, I am driven by the transformative potential of AI in shaping secure, seamless digital experiences.
+    My projects ranging from medical image classification using deep learning to enhancing speech quality using AI have strengthened my skills in building real-world, data-driven solutions.
+    I enjoy solving complex problems that require a mix of innovation, performance, and responsibility.
+    Visa’s commitment to tech-driven global impact and innovation resonates strongly with my values, and I’m eager to contribute meaningfully to your mission of enabling trusted, intelligent digital commerce worldwide.
+  </p>
 </div>
+
 
 
 ---
