@@ -129,7 +129,8 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
   - Time Complexity: O(V<sup>3</sup>) where V is the number of vertices
   - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices
 
-[View Dijistra's code here] (https://github.com/Daneshwari07/vica.github.io/blob/main/codes/dijistra1.cpp) {:target="_blank"}<br>
-[View Floyd-Warshall code here] (https://github.com/Daneshwari07/vica.github.io/blob/main/codes/floyd_warshall.cpp) {:target="_blank"}<br><br><br>
+[View Dijkstra’s code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/dijistra1.cpp){:target="_blank"}<br>
+[View Floyd-Warshall code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/floyd_warshall.cpp){:target="_blank"}<br><br><br>
+
  
 
