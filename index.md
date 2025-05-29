@@ -80,7 +80,9 @@ The services provided by Visa include:
 **Tap-to-pay**, now account for more than 50% of Visa face-to-face transactions globally as of 2023 [4].This rapid tap-to-pay growth highlights the need for ultra-fast, low-latency algorithms that enable instant transaction validation and tokenized security.
 
 ## Enhancing Visa's Services with Algorithms
-In today’s digital age, the efficiency and effectiveness of financial technology services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project explores the core functionalities of Visa’s global payment systems, applying the theoretical knowledge and practical skills acquired from courses in **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)**. By using advanced algorithmic techniques and innovative data structures, this project aims to propose solutions to real-world challenges.This portfolio demostrates how algorithms make Visa's services more efficient, including transaction optimization, fraud detection, real-time payment routing, and system scalability within Visa’s environment.
+In today’s digital age, the efficiency and effectiveness of financial technology services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project explores the core functionalities of Visa’s global payment systems, applying the theoretical knowledge and practical skills acquired from courses in **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)**. By using advanced algorithmic techniques and innovative data structures, this project aims to propose solutions to real-world challenges.
+
+This portfolio demostrates how algorithms make Visa's services more efficient, including transaction optimization, fraud detection, real-time payment routing, and system scalability within Visa’s environment.
 
 
 
