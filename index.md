@@ -117,6 +117,7 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
 </p><br>
 
 **Challenges:** Computing shortest paths considering traffic and road conditions.
+
 **Market Benefits:** Faster transaction approvals,reduced processing costs,enhanced customer trust and better cross-border payment efficiency.
 
 **Design techniques and Performance analysis:**
