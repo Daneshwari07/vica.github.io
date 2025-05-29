@@ -84,5 +84,11 @@ In today’s digital age, the efficiency and effectiveness of financial technolo
 
 This portfolio demostrates how algorithms make Visa's services more efficient, including transaction optimization, fraud detection, real-time payment routing, and system scalability within Visa’s environment.
 
+---
+# 2.Objectives
+
+- To explore and implement algorithms that improve the efficiency of Visa's services.
+- To apply theoretical knowledge from DSA and APS courses to practical,real world scenarios.
+- To explore how smart algorithmic techniques can make transaction processing within VisaNet faster, more accurate, and scalable.
 
 
