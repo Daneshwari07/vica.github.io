@@ -101,7 +101,7 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Screenshot%202025-05-28%20015532.png?raw=true" alt="Dijstra algorithm">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/dijistra1.gif?raw=true" alt="Dijstra algorithm">
   <br>
 [5] Dijkstra's Algorithm for finding shortest routing paths
   <br>
