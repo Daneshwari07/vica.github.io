@@ -124,6 +124,6 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
   - Time Complexity: O((V + E) log V) where V is the number of vertices and E is the number of edges
   - Space Complexity: O(V) where V is the number of vertices<br>
 
- - **Floyd-Warshall Algorithm:** Dynamic programming, All-pairs shortest path
-- Time Complexity: O(V<sup>3</sup>) where V is the number of vertices
-- Space Complexity: O(V<sup>2</sup>) where V is the number of vertices
+- **Floyd-Warshall Algorithm:** Dynamic programming, All-pairs shortest path
+  - Time Complexity: O(V<sup>3</sup>) where V is the number of vertices
+  - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices
