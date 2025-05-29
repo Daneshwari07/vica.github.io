@@ -85,10 +85,18 @@ In today’s digital age, the efficiency and effectiveness of financial technolo
 This portfolio demostrates how algorithms make Visa's services more efficient, including transaction optimization, fraud detection, real-time payment routing, and system scalability within Visa’s environment.
 
 ---
+<br>
 # 2.Objectives
 
 - To explore and implement algorithms that improve the efficiency of Visa's services.
 - To apply theoretical knowledge from DSA and APS courses to practical,real world scenarios.
 - To explore how smart algorithmic techniques can make transaction processing within VisaNet faster, more accurate, and scalable.
+<br><br><br>
 
+---
+<br>
+# 3.Business Use Cases➡️Algorithmic Solutions
+
+### 1.**Routing Algorithms for Transaction Optimization**
+**Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
 
