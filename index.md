@@ -106,3 +106,12 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 [5] Dijkstra's Algorithm for finding shortest routing paths
   <br>
 </p><br>
+
+Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be used for network analysis.It helps to find the shortest paths between all pairs of nodes.It precomputes all possible router between banks and payment processors,enabling fast path selection during high transaction volumes without re-running pathfinding algorithms.
+
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Floyd_warshall_gif.gif?raw=true" alt="Floyd-Warshall algorithm">
+  <br>
+[6] Floyd-Warshall algorithm for finding shortest routing paths between all pairs.
+  <br>
+</p><br>
