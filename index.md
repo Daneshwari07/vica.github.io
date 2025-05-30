@@ -102,15 +102,28 @@ Visa's system needs to quickly identify the details about a card such as the iss
 Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/dijistra1.gif?raw=true" alt="Dijstra algorithm">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/trie.gif?raw=true" alt="Trie data structure">
   <br>
-[5] Dijkstra's Algorithm for finding shortest routing paths
+[6] Trie structure for matching prefix in card
   <br>
 </p><br>
 
 Hash Tables: **Hash tables** can be used in session and profile storage.It helps Visa to store and retrieve the user session data and card information with near instant access.This ensures quick verification during transactions.
 
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/HashTable?raw=true" alt="Hash data structure">
+  <br>
+[7] Hash tables for storing user session data
+  <br>
+</p><br>
+
 skip list: **skip list** can be used in Dynamic card information updates,it handle frequent insertions,deletions and updates to active card records.By keeping the data sorted it ensures faster access.
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList?raw=true" alt="skip list data structure">
+  <br>
+[8] skip list for dynamic updates
+  <br>
+</p><br>
 
 ### 1.**Routing Algorithms for Transaction Optimization**
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
