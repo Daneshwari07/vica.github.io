@@ -241,4 +241,5 @@ Hash Table: Visa can be used hash tables to store the hashed information like us
        - Time complexity: O(1) for retriving,searching data.
        - Space complexity: O(n) 
     
-
+[View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie1.cpp){:target="_blank"}<br>
+[View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br>
