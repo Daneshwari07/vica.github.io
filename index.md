@@ -208,7 +208,7 @@ Visa can be used **KD-Tree** to perform fast and efficient geo-location lookups 
 Visa builds behavioral models based on user's historical transaction patterns such as frequency,location,amount and merchant type.It can be use a **trie** to store known fraud card prefixes and merchant IDs based on past fraud.For every new transaction it checks the card number and merchant against this trie.Tries are fast at matching prefixes it can instantly find the fraud activity.
 
  <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/trie1.gif?raw=true" alt="KD tree algorithm">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/trie1.gif?raw=true" alt="trie algorithm" width="600">
   <br>
 [8] Trie data structure
   <br>
