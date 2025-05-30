@@ -183,6 +183,26 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
 [View Floyd-Warshall code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/floyd_warshall.cpp){:target="_blank"}<br><br><br>
 
 
-### Fraud Detection A
- 
+### Location-Based Risk Check
+Visa can be used **KD-Tree** to perform fast and efficient geo-location lookups during a transaction.It is tree structure used for storing spacial data.It quickly find the nearest known locations to the user's current point by breaking down the location space into a grid.If a new location is too far from previously known ones and time gap is short,the system can flag it as potential fraud risk.
+
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/KDtree.gif?raw=true" alt="KD tree algorithm">
+  <br>
+[8] KD-Tree for finding location based risks] 
+  <br>
+</p><br>
+
+ **challenges** Handling geographic coordinates and divice information efficiently,keeping location history updated for millions of users.
+
+ **Market analysis** Improved fraud detection,faster transaction decisions,improves customer safety.
+
+**Design techniques and Performance analysis:**
+ -**KD tree:**
+    -Time complexity: O(n logn), where n is number of locations
+      -Search Time: O(n) if tree is unbalanced
+    -Space complexity: O(n) where n is number of stored points.
+
+  
+    
 
