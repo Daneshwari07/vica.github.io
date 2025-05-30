@@ -142,6 +142,7 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
   -Space complexity: O(n), where n is the number of elements in the skip list
 
 [View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie.cpp){:target="_blank"}<br>
+[View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash.cpp){:target="_blank"}<br>
 [View skip list code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/skipList.cpp){:target="_blank"}<br><br><br>
 
 
