@@ -214,7 +214,7 @@ Visa builds behavioral models based on user's historical transaction patterns su
   <br>
 </p><br>
 
-Hash Table: Visa can be used hashing to store the information like user devices,browser fingerprints, ip addresses and login sessions.Each of these identifiers is converted into a unique hash and stored in the system.when a new transaction is made,the system quickly checks wheather the hashed signature of the device matches the past trusted ones.If it doesn't match then the system block the transaction to prevent fraud.
+Hash Table: Visa can be used hash tables to store the hashed information like user devices,browser fingerprints, ip addresses and login sessions.Each of these identifiers is converted into a unique hash and stored in the system.when a new transaction is made,the system quickly checks wheather the hashed signature of the device matches the past trusted ones.If it doesn't match then the system block the transaction to prevent fraud.
 
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/hash_table.gif?raw=true" alt="Hash data structure">
