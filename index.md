@@ -97,6 +97,14 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 <br>
 # 3.Business Use Cases➡️Algorithmic Solutions
 
+### 1. **Card and BIN Resolution for Visa Transaction Routing**
+Visa's system needs to quickly identify the details about a card such as the issuing bank,country and card type based on the card number's prefix.
+Trie: **Trie** can be used to quickly match the car's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
+
+Hash Tables: **Hash tables** can find the detailed card information instantly once the BIN is identified.It enables quick lookups of bank names card types or country data without searching through everything
+
+skip list: **skip list** supports Visa in managing constantly changing card data by keeping information sorted and it allows fast insertion and updates.It skips some of the lists and jump through the efficiently,makes dybamic updates smooth.
+
 ### 1.**Routing Algorithms for Transaction Optimization**
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
 
@@ -129,8 +137,10 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
   - Time Complexity: O(V<sup>3</sup>) where V is the number of vertices
   - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices
 
-[View Dijkstra’s code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/dijistra1.cpp){:target="_blank"}<br>
+[View Dijkstra’s code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/dijistra.cpp){:target="_blank"}<br>
 [View Floyd-Warshall code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/floyd_warshall.cpp){:target="_blank"}<br><br><br>
 
+
+### Fraud Detection A
  
 
