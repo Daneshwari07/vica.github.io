@@ -124,6 +124,27 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
   <br>
 </p><br>
 
+**challenge** efficiently handling millions of card details
+
+**Market Benefits** Faster card recognition during transactions,reduced transaction delays and improve user experience.
+
+**Design techniques and Performance analysis:**
+ -**Tries** Tree data structure,prefix tree
+   -Time complexity: O(L) for insertion,deletion and lookup operations,where L is the length of the key.
+   -space complexity: O(ALPHABET_SIZE*L) where ALPHABET_SIZE is the number of possible characters
+
+-**Hash Table** 
+ -Time complexity: O(1) for insert/delete/search
+ -Space complexity: O(n) where n is number of stored items.
+
+-**Skip Lists** Probabilistic balancing,layered linked lists
+  -Time complexity: O(log n) on average for search, insertion, and deletion, where n is the number of elements in the list
+  -Space complexity: O(n), where n is the number of elements in the skip list
+
+[View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie.cpp){:target="_blank"}<br>
+[View skip list code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/skipList.cpp){:target="_blank"}<br><br><br>
+
+
 ### 1.**Routing Algorithms for Transaction Optimization**
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
 
