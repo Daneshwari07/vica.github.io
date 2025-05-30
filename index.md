@@ -99,11 +99,18 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 
 ### 1. **Card and BIN Resolution for Visa Transaction Routing**
 Visa's system needs to quickly identify the details about a card such as the issuing bank,country and card type based on the card number's prefix.
-Trie: **Trie** can be used to quickly match the car's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
+Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
-Hash Tables: **Hash tables** can find the detailed card information instantly once the BIN is identified.It enables quick lookups of bank names card types or country data without searching through everything
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/dijistra1.gif?raw=true" alt="Dijstra algorithm">
+  <br>
+[5] Dijkstra's Algorithm for finding shortest routing paths
+  <br>
+</p><br>
 
-skip list: **skip list** supports Visa in managing constantly changing card data by keeping information sorted and it allows fast insertion and updates.It skips some of the lists and jump through the efficiently,makes dybamic updates smooth.
+Hash Tables: **Hash tables** can be used in session and profile storage.It helps Visa to store and retrieve the user session data and card information with near instant access.This ensures quick verification during transactions.
+
+skip list: **skip list** can be used in Dynamic card information updates,it handle frequent insertions,deletions and updates to active card records.By keeping the data sorted it ensures faster access.
 
 ### 1.**Routing Algorithms for Transaction Optimization**
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
