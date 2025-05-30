@@ -111,7 +111,7 @@ Trie: **Trie** can be used to quickly match the card's BIN prefix by checking ea
 Hash Tables: **Hash tables** can be used in session and profile storage.It helps Visa to store and retrieve the user session data and card information with near instant access.This ensures quick verification during transactions.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/HashTable?raw=true" alt="Hash data structure">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/HashTable.gif?raw=true" alt="Hash data structure">
   <br>
 [7] Hash tables for storing user session data
   <br>
@@ -119,7 +119,7 @@ Hash Tables: **Hash tables** can be used in session and profile storage.It helps
 
 skip list: **skip list** can be used in Dynamic card information updates,it handle frequent insertions,deletions and updates to active card records.By keeping the data sorted it ensures faster access.
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList?raw=true" alt="skip list data structure">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList.gif?raw=true" alt="skip list data structure">
   <br>
 [8] skip list for dynamic updates
   <br>
