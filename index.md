@@ -98,7 +98,6 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 # 3.Business Use Cases➡️Algorithmic Solutions
 
 ### 1. **Card and BIN Resolution for Visa Transaction Routing**
-Visa's system needs to quickly identify the details about a card such as the issuing bank,country and card type based on the card number's prefix.
 Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
 <p align="center">
