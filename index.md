@@ -198,7 +198,7 @@ Visa can be used **KD-Tree** to perform fast and efficient geo-location lookups 
  **Market analysis** Improved fraud detection,faster transaction decisions,improves customer safety.
 
 **Design techniques and Performance analysis:**
- -**KD tree:**
+-**KD tree:**
     -Time complexity: O(n logn), where n is number of locations
       -Search Time: O(n) if tree is unbalanced
     -Space complexity: O(n) where n is number of stored points.
