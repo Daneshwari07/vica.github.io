@@ -135,8 +135,8 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
    - space complexity: O(ALPHABET_SIZE*L) where ALPHABET_SIZE is the number of possible characters
 
 - **Hash Table** 
- - Time complexity: O(1) for insert/delete/search
- - Space complexity: O(n) where n is number of stored items.
+   - Time complexity: O(1) for insert/delete/search
+   - Space complexity: O(n) where n is number of stored items.
 
 - **Skip Lists** Probabilistic balancing,layered linked lists
   - Time complexity: O(log n) on average for search, insertion, and deletion, where n is the number of elements in the list
