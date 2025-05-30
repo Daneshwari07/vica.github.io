@@ -129,17 +129,18 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
 **Market Benefits** Faster card recognition during transactions,reduced transaction delays and improve user experience.
 
 **Design techniques and Performance analysis:**
- -**Tries** Tree data structure,prefix tree
-   -Time complexity: O(L) for insertion,deletion and lookup operations,where L is the length of the key.
-   -space complexity: O(ALPHABET_SIZE*L) where ALPHABET_SIZE is the number of possible characters
 
--**Hash Table** 
- -Time complexity: O(1) for insert/delete/search
- -Space complexity: O(n) where n is number of stored items.
+ - **Tries** Tree data structure,prefix tree
+   - Time complexity: O(L) for insertion,deletion and lookup operations,where L is the length of the key.
+   - space complexity: O(ALPHABET_SIZE*L) where ALPHABET_SIZE is the number of possible characters
 
--**Skip Lists** Probabilistic balancing,layered linked lists
-  -Time complexity: O(log n) on average for search, insertion, and deletion, where n is the number of elements in the list
-  -Space complexity: O(n), where n is the number of elements in the skip list
+- **Hash Table** 
+ - Time complexity: O(1) for insert/delete/search
+ - Space complexity: O(n) where n is number of stored items.
+
+- **Skip Lists** Probabilistic balancing,layered linked lists
+  - Time complexity: O(log n) on average for search, insertion, and deletion, where n is the number of elements in the list
+  - Space complexity: O(n), where n is the number of elements in the skip list
 
 [View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie.cpp){:target="_blank"}<br>
 [View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash.cpp){:target="_blank"}<br>
