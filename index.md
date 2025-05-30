@@ -119,7 +119,7 @@ Hash Tables: **Hash tables** can be used in session and profile storage.It helps
 
 skip list: **skip list** can be used in Dynamic card information updates,it handle frequent insertions,deletions and updates to active card records.By keeping the data sorted it ensures faster access.
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList.gif?raw=true" alt="skip list data structure">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList.gif?raw=true" alt="skip list data structure" width="500">
   <br>
 [8] skip list for dynamic updates
   <br>
