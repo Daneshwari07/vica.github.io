@@ -249,6 +249,13 @@ Hash Table: Visa can be used hash tables to store the hashed information like us
 
 VisaNet handles billions of real-time transactions daily across global data centers.It has multibal global data centers. **Segment Tree** can be used to store and update the aggregated transaction loads per region. This helps to quickly determine which region has capacity to handle more traffic.It updates load counters when transaction start or finish.
 
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/segment1.gif?raw=true" alt="segment tree">
+  <br>
+[9] Segment tree to store and update aggregate transaction load
+  <br>
+</p><br>
+
 
 
 
