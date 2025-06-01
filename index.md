@@ -259,7 +259,7 @@ VisaNet handles billions of real-time transactions daily across global data cent
 In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree plays a crucial role in managing and balancing server-level loads efficiently.Mantaining a this dynamic structure supports quick updates and rage queries,VisaNet can track the load on each individual server in real time.Fenwick tree enables fast cumulative queries such as checking the total load accross a range of servers which helps in identifying imbalances or potential hotpots.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick.gif?raw=true" alt="Fenwick tree">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick.gif?raw=true" alt="Fenwick tree" width="600">
   <br>
 [9] Fenwick Tree to balce server-level loads
   <br>
