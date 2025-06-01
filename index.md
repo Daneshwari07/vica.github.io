@@ -285,6 +285,7 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
         - Space complexity: O(n) to store nodes
     
   - **Fenwich tree**
+    
         - Time complexity: O(n log n)
                - Update time: O(log n)
                - Query time(prefix sum): O(log n)
