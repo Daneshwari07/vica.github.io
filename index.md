@@ -278,10 +278,10 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 **Design techniques and Performance analysis:**
 
    - **Segment tree:** Binary tree structure
-
         - Time complexity: O(n)
-                - update time: O(log n)
-                - Query time: O(log n)
+             
+             - update time: O(log n)
+             - Query time: O(log n)
         - Space complexity: O(n) to store nodes
     
   - **Fenwich tree**
