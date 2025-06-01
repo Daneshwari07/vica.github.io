@@ -256,7 +256,7 @@ VisaNet handles billions of real-time transactions daily across global data cent
   <br>
 </p><br>
 
-In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree plays a crucial role in managing and balancing server-level loads efficiently.Mantaining a this dynamic structure supports quick updates and rage queries,VisaNet can track the load on each individual server in real time.Fenwick tree enables fast cumulative queries such as checking the total load accross a range of servers which helps in identifying imbalances or potential hotpots.
+In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree plays a crucial role in managing and balancing server-level loads efficiently.Mantaining a this dynamic structure supports quick updates and rage queries,VisaNet can track the load on each individual server in real time.Fenwick tree enables fast cumulative queries such as checking the total load accross a range of servers which helps in identifying imbalances or potential hotspots.
 
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick.gif?raw=true" alt="Fenwick tree" width="600">
@@ -266,4 +266,31 @@ In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree play
 </p><br>
 
 
+Hash Table: a **Hash Table** combined with consistent Hashing is used to efficiently assign transactions from millions of users to backend servers. This technique ensures that the load is evenly distributed, reducing the chance of overloading any single server. When servers are added or removed,only a minimal number of transaction mapping need to change.
 
+**Challenges**
+   - Failover recovery and dynamic node scaling,massive data handling.
+   - Synchronization between global and lacal data structures,ensuring low latency decision making(<100ms)
+
+**Market Benefits**
+Improved speed,scalability,user experience and infrastructure cost efficiency.It also improve user experience and loyalty.
+
+**Design techniques and Performance analysis:**
+
+   - **Segment tree:** Binary tree structure
+         - Time complexity: O(n)
+                - update time: O(log n)
+                - Query time: O(log n)
+        - Space complexity: O(n) to store nodes
+    
+  - **Fenwich tree**
+        - Time complexity: O(n log n)
+               - Update time: O(log n)
+               - Query time(prefix sum): O(log n)
+        - Space complexity:O(n)
+
+    - **Hash Table with consistent Hashing**
+         - Time complexity: O(1) for retriving,searching data.
+         - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
+         - Space complexity: O(n + k) where n is number of servers, k is number of keys 
+    
