@@ -268,6 +268,13 @@ In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree play
 
 Hash Table: a **Hash Table** combined with consistent Hashing is used to efficiently assign transactions from millions of users to backend servers. This technique ensures that the load is evenly distributed, reducing the chance of overloading any single server. When servers are added or removed,only a minimal number of transaction mapping need to change.
 
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/hashing.gif?raw=true" alt="Fenwick tree" width="500">
+  <br>
+[9] Hash Table combined with consistent Hashing
+  <br>
+</p><br>
+
 **Challenges**
    - Failover recovery and dynamic node scaling,massive data handling.
    - Synchronization between global and lacal data structures,ensuring low latency decision making(<100ms)
