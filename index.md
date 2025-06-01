@@ -250,12 +250,20 @@ Hash Table: Visa can be used hash tables to store the hashed information like us
 VisaNet handles billions of real-time transactions daily across global data centers.It has multibal global data centers. **Segment Tree** can be used to store and update the aggregated transaction loads per region. This helps to quickly determine which region has capacity to handle more traffic.It updates load counters when transaction start or finish.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/segment1.gif?raw=true" alt="segment tree">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/segment1.gif?raw=true" alt="segment tree" width="600">
   <br>
 [9] Segment tree to store and update aggregate transaction load
   <br>
 </p><br>
 
+In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree plays a crucial role in managing and balancing server-level loads efficiently.Mantaining a this dynamic structure supports quick updates and rage queries,VisaNet can track the load on each individual server in real time.Fenwick tree enables fast cumulative queries such as checking the total load accross a range of servers which helps in identifying imbalances or potential hotpots.
+
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick.gif?raw=true" alt="Fenwick tree">
+  <br>
+[9] Fenwick Tree to balce server-level loads
+  <br>
+</p><br>
 
 
 
