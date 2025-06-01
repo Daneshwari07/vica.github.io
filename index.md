@@ -286,14 +286,12 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 
    - **Segment tree:** Binary tree structure
         - Time complexity: O(n)
-             
              - update time: O(log n)
              - Query time: O(log n)
         - Space complexity: O(n) to store nodes
     
   - **Fenwich tree**
        - Time complexity: O(n log n)
-
             - Update time: O(log n)
             - Query time(prefix sum): O(log n)
        - Space complexity:O(n)
