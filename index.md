@@ -278,7 +278,8 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 **Design techniques and Performance analysis:**
 
    - **Segment tree:** Binary tree structure
-         - Time complexity: O(n)
+
+        - Time complexity: O(n)
                 - update time: O(log n)
                 - Query time: O(log n)
         - Space complexity: O(n) to store nodes
@@ -289,8 +290,8 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
                - Query time(prefix sum): O(log n)
         - Space complexity:O(n)
 
-    - **Hash Table with consistent Hashing**
-         - Time complexity: O(1) for retriving,searching data.
-         - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
-         - Space complexity: O(n + k) where n is number of servers, k is number of keys 
+   - **Hash Table with consistent Hashing**
+       - Time complexity: O(1) for retriving,searching data.
+       - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
+       - Space complexity: O(n + k) where n is number of servers, k is number of keys 
     
