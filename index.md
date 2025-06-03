@@ -300,4 +300,7 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
        - Time complexity: O(1) for retriving,searching data.
        - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
        - Space complexity: O(n + k) where n is number of servers, k is number of keys 
-    
+
+### 6.Transaction History Analytics in VisaNet 
+Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
+**Persistent Segment tree** can be used to maintain historical 
