@@ -306,10 +306,11 @@ Visa handles enormous volumes of transaction logs daily so it requires efficient
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Huffman.gif" alt="Huffman Tree" width="500">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Huffman.gif" alt="Huffman Tree" width="300" height="200">
   <br>
   <strong>[9]</strong> Huffman coding for data compression
 </p>
+
 
 
 **Lempel-Ziv algorithms** can be used for compressing trasaction streams that exhibit repeated patterns such as recurring location codes, currency formats.Using LZ based compression in real-time logging system to detect and eliminate redundancy and making it suitable for both storage and low latency transmission between systems.
