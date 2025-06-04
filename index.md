@@ -305,6 +305,12 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
 
 **Persistent Segment tree** can be used to maintain historical versions of each user's transaction data. Instead of overwriting old data, a new version is created with each update which enables fast queries on past transaction states.This helps in fraud investigation and audit trails.
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/persistant_segment.png?raw=true" alt="segment tree" width="600">
+  <br>
+[9] Segment tree to store and update aggregate transaction load
+  <br>
+</p><br>
 
 **Fenwick Tree** can be used to maintain and query cumulative transaction totals.Fenwick tree enables fast prefix sum calculations and dynamic updates as new tranactions occur.This makes it useful in real-time analytics.
 <p align="center">
