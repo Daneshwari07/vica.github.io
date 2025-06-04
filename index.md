@@ -320,3 +320,25 @@ Visa processes billions of transactions globally and each cardholder has a growi
   <br>
 </p><br>
 
+**Challenges**
+  - Handling massive volumes of transactional data across global infrastructure
+  - The solution must support high availability and dynamically scaled infrastructure as transaction volumes fluctuate globally.
+  - Transaction anlytics must delivar the results under 100ms for smooth user experience in dashboards.
+
+**Market benefits**
+Real-Time Analytics, infrastructure efficiency,historical versioning supports regulation compliance,internal audits. It also improves user trust and engagement.
+
+**Design techniques and Performance analysis:**
+   - **Persistant Segment tree**
+         - Time Complexity:
+                - Update: O(log n)
+                - Query : O(log n)
+         - Space Complexity:
+                - O(log n) per version
+   - **Fenwick Tree**
+         - Time Complexity: It takes O(n) to build
+                - Update: O(log n)
+                - Query(Prefix Sum): O(log n)
+         - Space Complexity: O(n)
+     
+                
