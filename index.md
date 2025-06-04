@@ -308,7 +308,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 
 **Fenwick Tree** can be used to maintain and query cumulative transaction totals.Fenwick tree enables fast prefix sum calculations and dynamic updates as new tranactions occur.This makes it useful in real-time analytics.
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick1.jpg?raw=true" alt="Fenwick tree">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick1.jpg?raw=true" alt="Fenwick tree" width="500">
   <br>
 [9] Fenwick Tree to balce server-level loads
   <br>
