@@ -304,7 +304,12 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 ### 6. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
-
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Huffman.gif?raw=true" alt="Fenwick tree">
+  <br>
+[9] Huffman coding for data compression
+  <br>
+</p><br>
 ### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
 
@@ -320,7 +325,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick1.jpg?raw=true" alt="Fenwick tree" height="400">
   <br>
-[9] Fenwick Tree to query cumulative trasaction totals
+[9] Fenwick Tree to query cumulative trasaction total
   <br>
 </p><br>
 
