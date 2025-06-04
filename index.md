@@ -299,9 +299,13 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
    - **Hash Table with consistent Hashing**
        - Time complexity: O(1) for retriving,searching data.
        - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
-       - Space complexity: O(n + k) where n is number of servers, k is number of keys 
+       - Space complexity: O(n + k) where n is number of servers, k is number of keys
+    
+### 6. Transaction Data Compression & Storage
+Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
+Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
 
-### 6.Transaction History Analytics in VisaNet 
+### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
 
 **Persistent Segment tree** can be used to maintain historical versions of each user's transaction data. Instead of overwriting old data, a new version is created with each update which enables fast queries on past transaction states.This helps in fraud investigation and audit trails.
@@ -316,7 +320,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick1.jpg?raw=true" alt="Fenwick tree" height="400">
   <br>
-[9] Fenwick Tree to balce server-level loads
+[9] Fenwick Tree to query cumulative trasaction totals
   <br>
 </p><br>
 
@@ -325,7 +329,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
   - The solution must support high availability and dynamically scaled infrastructure as transaction volumes fluctuate globally.
   - Transaction anlytics must delivar the results under 100ms for smooth user experience in dashboards.
 
-**Market benefits**
+**Market benefits :**
 Real-Time Analytics, infrastructure efficiency,historical versioning supports regulation compliance,internal audits. It also improves user trust and engagement.
 
 **Design techniques and Performance analysis:**
@@ -340,5 +344,5 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
            - Update: O(log n)
            - Query(Prefix Sum): O(log n)
         - Space Complexity: O(n)
-     
+
                 
