@@ -304,6 +304,7 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 ### 6. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
+
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Huffman.gif?raw=true" alt="Fenwick tree width="500">
   <br>
@@ -314,6 +315,7 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
 **Lempel-Ziv algorithms** can be used for compressing trasaction streams that exhibit repeated patterns such as recurring location codes, currency formats.Using LZ based compression in real-time logging system to detect and eliminate redundancy and making it suitable for both storage and low latency transmission between systems.
 
 **Run-Length Encoding** can be used to compress simpler analytics data with repetitive values such as status flags,transaction success/failure logs or time series data with constant intervals.It is a lightweight and effective for specific log formats where repeated vaues appear in long sequences.
+
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/run_length.png?raw=true" alt="Fenwick tree>
   <br>
