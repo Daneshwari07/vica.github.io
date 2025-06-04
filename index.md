@@ -330,15 +330,17 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
 
 **Design techniques and Performance analysis:**
    - **Persistant Segment tree**
+     
          - Time Complexity:
-                - Update: O(log n)
-                - Query : O(log n)
+             - Update: O(log n)
+             - Query : O(log n)
          - Space Complexity:
-                - O(log n) per version
+             - O(log n) per version
    - **Fenwick Tree**
+     
          - Time Complexity: It takes O(n) to build
-                - Update: O(log n)
-                - Query(Prefix Sum): O(log n)
+              - Update: O(log n)
+              - Query(Prefix Sum): O(log n)
          - Space Complexity: O(n)
      
                 
