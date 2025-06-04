@@ -330,16 +330,20 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
 Improved Scalibility,enables faster data movement between microservices and regional payment gateways.
 
 **Design techniques and Performance analysis:**
+
     - **Huffman coding**
+    
          - Time complexity: 
             - Encoding: O(n log n)
             - Decoding: O(n)
          - Space complexity:O(n) for storing the Huffman tree and encoded data
+         
     -  **Lempel-Ziv**
          - Time complexity:
             - Encoding: O(n) (depends on match length)
             - Decoding: O(n)
          - Space complexity: O(n) 
+         
     -  **Run-Length Encoding**
          - Time complexity:
             - Encoding: O(n) (depends on match length)
