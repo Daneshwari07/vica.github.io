@@ -323,6 +323,29 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
   <strong>[9]</strong> RLE for analyzing repetitive values
 </p>
 
+**Challenges**
+ Real-time compression can add CPU and memory load when their is large or continuous data streams.It also increase response time in systems
+
+**Market benefits:**
+Improved Scalibility,enables faster data movement between microservices and regional payment gateways.
+
+**Design techniques and Performance analysis:**
+    - **Huffman coding**
+         - Time complexity: 
+            - Encoding: O(n log n)
+            - Decoding: O(n)
+         - Space complexity:O(n) for storing the Huffman tree and encoded data
+    -  **Lempel-Ziv**
+         - Time complexity:
+            - Encoding: O(n) (depends on match length)
+            - Decoding: O(n)
+         - Space complexity: O(n) 
+    -  **Run-Length Encoding**
+         - Time complexity:
+            - Encoding: O(n) (depends on match length)
+            - Decoding: O(n)
+         - Space complexity: O(1) to O(n) (depends on repetition)
+
 
 ### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
