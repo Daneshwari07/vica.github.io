@@ -308,7 +308,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/persistant_segment.png?raw=true" alt="segment tree" width="600">
   <br>
-[9] Segment tree to store and update aggregate transaction load
+[9] Persistant segment tree for maintaining versions
   <br>
 </p><br>
 
