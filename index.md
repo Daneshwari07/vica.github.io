@@ -303,6 +303,14 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 
 ### 6.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
+
 **Persistent Segment tree** can be used to maintain historical versions of each user's transaction data. Instead of overwriting old data, a new version is created with each update which enables fast queries on past transaction states.This helps in fraud investigation and audit trails.
 
-**Fenwick Tree** can be used to maintain and query cumulative transaction totals.Fenwick tree enables fast prefix sum calculations and dynamic updates as new tranactions occur.
+**Fenwick Tree** can be used to maintain and query cumulative transaction totals.Fenwick tree enables fast prefix sum calculations and dynamic updates as new tranactions occur.This makes it useful in real-time analytics.
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick1.jpg?raw=true" alt="Fenwick tree">
+  <br>
+[9] Fenwick Tree to balce server-level loads
+  <br>
+</p><br>
+
