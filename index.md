@@ -318,11 +318,11 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
 **Run-Length Encoding** can be used to compress simpler analytics data with repetitive values such as status flags,transaction success/failure logs or time series data with constant intervals.It is a lightweight and effective for specific log formats where repeated vaues appear in long sequences.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/run_length.png?raw=true" alt="Fenwick tree>
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/run_length.png" alt="Run Length Encoding" width="300" height="200">
   <br>
-[9] RLE for analyse repetitive values
-  <br>
-</p><br>
+  <strong>[9]</strong> RLE for analyzing repetitive values
+</p>
+
 
 ### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
