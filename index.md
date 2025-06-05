@@ -397,7 +397,7 @@ In the world of digital payments,Visa ensures that every transaction is secure a
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/RSA_1.png" alt="Run Length Encoding" width="300" height="200">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/RSA_1.png" alt="Run Length Encoding" width="500">
   <br>
   <strong>[9]</strong> RSA encryption 
 </p>
