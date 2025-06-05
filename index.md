@@ -147,7 +147,7 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
 [View skip list code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/skipList.cpp){:target="_blank"}<br><br><br>
 
 
-### 1.**Routing Algorithms for Transaction Optimization**
+### 2.**Routing Algorithms for Transaction Optimization**
 **Dijkstra's Algorithm** can find the most cost-effective and fastest route for a transaction between the customer's bank and the merchant's bank,when multiple intermediaries are involved. considering factors such as network latency,currency exchange rates and real-time system load.
 
 <p align="center">
@@ -389,4 +389,17 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
            - Query(Prefix Sum): O(log n)
         - Space Complexity: O(n)
 
-                
+
+### 8. Secure Authentication & Encryption
+In the world of digital payments,Visa ensures that every transaction is secure and authenticated.This is achieved through a combination of strong encryption,hashing techniques and optimized data structures that work together to protect sensitive information in real time.
+
+**Fermat’s Little Theorem** plays a foundational role in RSA encryption, which is used by Visa to secure communication between users,banks and merchants.It enables the calculation of modular inverses and supports the integrity of public-private key operations used in digital signatures and secure handshakes. When creating public key two large prime numbers are chosen and multiplied together. 
+
+<p align="center">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/rsa.png?raw=true" alt="segment tree" width="300">
+  <br>
+[9] Fermat's little theorem in cryptograpy
+  <br>
+</p><br>
+
+
