@@ -393,13 +393,15 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
 ### 8. Secure Authentication & Encryption
 In the world of digital payments,Visa ensures that every transaction is secure and authenticated.This is achieved through a combination of strong encryption,hashing techniques and optimized data structures that work together to protect sensitive information in real time.
 
-**Fermat’s Little Theorem** plays a foundational role in RSA encryption, which is used by Visa to secure communication between users,banks and merchants.It enables the calculation of modular inverses and supports the integrity of public-private key operations used in digital signatures and secure handshakes. When creating public key two large prime numbers are chosen and multiplied together. 
+**Fermat’s Little Theorem** plays a foundational role in RSA encryption, which is used by Visa to secure communication between users,banks and merchants.It enables the calculation of modular inverses and supports the integrity of public-private key operations used in digital signatures and secure handshakes. When creating public key two large prime numbers are chosen and multiplied together.Fermat's Little theorem assists in ensuring that these numbers have properties that make the encryption secure yet feasible to compute for those with the correct key[].The theorem aids in determining the modular inverse during the RSA key generation process which is also crucial for decrypting the received messages.
 
 <p align="center">
-  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/rsa.png?raw=true" alt="segment tree" width="300">
+  <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/RSA_1.png?raw=true" alt="segment tree" width="300">
   <br>
 [9] Fermat's little theorem in cryptograpy
   <br>
 </p><br>
 
+**References**
+[]Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
 
