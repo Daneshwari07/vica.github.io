@@ -403,6 +403,17 @@ In the world of digital payments,Visa ensures that every transaction is secure a
 </p>
 <br>
 
+Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tree that Visa can use it to store and manage cryptographic assests such as public and private keys,device fingerprints,session tokens and user metadata.These data points need to be accessed rapidly and reliably in real time payment environment.Red black tree can handle both ordered and unordered data.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_insert.gif" width="300" style="display:inline-block; margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_delete.gif" width="300" style="display:inline-block;">
+</p>
+<p align="center">
+  <strong>Red Black Tree insertion</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Red Black Tree deletion</strong>
+</p>
+
+
 **References**
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
 
