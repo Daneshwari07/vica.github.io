@@ -395,10 +395,11 @@ In the world of digital payments,Visa ensures that every transaction is secure a
 
 **Fermat’s Little Theorem** plays a foundational role in RSA encryption, which is used by Visa to secure communication between users,banks and merchants.It enables the calculation of modular inverses and supports the integrity of public-private key operations used in digital signatures and secure handshakes. When creating public key two large prime numbers are chosen and multiplied together.Fermat's Little theorem assists in ensuring that these numbers have properties that make the encryption secure yet feasible to compute for those with the correct key[].The theorem aids in determining the modular inverse during the RSA key generation process which is also crucial for decrypting the received messages.
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/RSA_1.png">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/RSA_1.png" alt="Run Length Encoding" width="300" height="200">
   <br>
-  <strong>[9]</strong> Fermat's little theorem in cryptograpy
+  <strong>[9]</strong> RLE for analyzing repetitive values
 </p>
 <br>
 
