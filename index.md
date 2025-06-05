@@ -406,12 +406,15 @@ In the world of digital payments,Visa ensures that every transaction is secure a
 Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tree that Visa can use it to store and manage cryptographic assests such as public and private keys,device fingerprints,session tokens and user metadata.These data points need to be accessed rapidly and reliably in real time payment environment.Red black tree can handle both ordered and unordered data.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_insert.gif" width="300" style="display:inline-block; margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_delete.gif" width="300" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_insert.gif" width="380" style="display:inline-block; margin-right: 30px;">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rbt_delete.gif" width="380" style="display:inline-block;">
 </p>
+
 <p align="center">
-  <strong>Red Black Tree insertion</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Red Black Tree deletion</strong>
+  <span style="display:inline-block; width: 380px; text-align:center;">Red Black Tree insertion</span>
+  <span style="display:inline-block; width: 380px; text-align:center; margin-left:30px;">Red Black Tree deletion</span>
 </p>
+
 
 
 **References**
