@@ -436,7 +436,7 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
  
 **Assignment Problem** can be utilized to optimize resource allocation within these data centers such as transaction validation,fraud detection and token generation are treated as jobs that need to be assigned to a set of available nodes or servers.By applying Assignment Problem for smaller problem size,VisaNet can assign tasks to resources in a way that minimizes overall latency, balances load, and adheres to service-level agreements.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/jobassignment.jpeg" alt="Run Length Encoding" width="500">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/jobassignment.jpg" alt="Run Length Encoding" width="500">
   <br>
   <strong>[9]</strong> Assignment problem for resource allocation
 </p>
