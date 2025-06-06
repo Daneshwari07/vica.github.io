@@ -443,7 +443,9 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
 <br>
 
 **Challenges :** Effective allocation of resources
+
 **Market Benefits:** Improved resource management and reduced operational costs.
+
 **Design techniques and Performance analysis:**
    - **Assignement Problem:** Optimization technique 
         - Time complexity: O(2<sup>N</sup> * N) where N is the number of tasks or resource
