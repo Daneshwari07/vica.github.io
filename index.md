@@ -466,8 +466,8 @@ Visa's vast network of data centers relies on efficient task scheduling algorith
 
 **Design techniques and Performance analysis:**
    - **Topological Sort:** Directed acyclic graph(DAG), Depth-first search(DFS)
-         - Time complexity: O(V+E), where V is the number of vertices (tasks) and E is the number of edges (dependencies) in the DAG
-         - Space Complexity: O(V + E) for storing the graph and additional structures
+        - Time complexity: O(V+E), where V is the number of vertices (tasks) and E is the number of edges (dependencies) in the DAG
+        - Space Complexity: O(V + E) for storing the graph and additional structures
      
 
 **References**
