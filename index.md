@@ -517,7 +517,7 @@ Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure t
 <br>
 
 [View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br>
-[View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
+[View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/stable.cpp){:target="_blank"}<br><br><br>
 
 **References**
 
