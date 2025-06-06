@@ -389,7 +389,8 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
            - Query(Prefix Sum): O(log n)
         - Space Complexity: O(n)
 
-
+[View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/.cpp){:target="_blank"}<br>
+[View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
 ### 8. Secure Authentication & Encryption
 In the world of digital payments,Visa ensures that every transaction is secure and authenticated.This is achieved through a combination of strong encryption,hashing techniques and optimized data structures that work together to protect sensitive information in real time.
 
