@@ -541,10 +541,10 @@ In Visa, a millions of financial transactions occur every second fot that mainta
 
 - **Design techniques and Performance analysis:**
      - **Bridges and Articulation Points**
-           - Time complexity: O(V+E)
-           - Space complexity:
-               - Bridges:O(V+E)
-               - Articulation Points:O(V)
+          - Time complexity: O(V+E)
+          - Space complexity:
+              - Bridges:O(V+E)
+              - Articulation Points:O(V)
 
 **References**
 
