@@ -498,7 +498,7 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
 
 [View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
     
-### 12 Dispute Resolution Workflow Optimization in VisaNet
+### 12.Dispute Resolution Workflow Optimization in VisaNet
 Visa handles millions of transaction disputes globally through its robust dispute resolution system. Optimizing this workflow ensures faster, fairer handling of chargebacks and conflict cases.
 **Topological Sort** can be used in the dispute resolution process where each node represent a specific task and edges represent dependencies between steps.Topological sorting ensures that tasks are excured in the correct sequence, respecting deadlines and dependencies.This avoids invalid processing and delays.
 <p align="center">
@@ -518,6 +518,33 @@ Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure t
 
 [View Topology sort code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br>
 [View Stable marriage code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/stable.cpp){:target="_blank"}<br><br><br>
+
+### 13.Network Reliability using Bridges and Articulation Points
+In Visa, a millions of financial transactions occur every second fot that maintaining a reliable and fault-tolerant network is essential.The algorithms such as finding **bridges and articulation points** help identify critical points of failure in the network.By identifying these points, Visa can implement redundancy measures and optimize network design to minimize downtime and improve overall network reliability.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Bridge1.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong> Graph showing a bridge highlighted in red which ensures connectivity
+</p>
+<br><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/articulate.webp?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong> Articulation Points:Nodes whose removal increases the number of connected components in a graph.
+</p>
+<br>
+
+- **Challenges:** Challenges: Identifying critical points of failure in the network.
+
+- **Market Benefits:** Improved network reliability, and minimized downtime.
+
+- **Design techniques and Performance analysis:**
+     - **Bridges and Articulation Points**
+           - Time complexity: O(V+E)
+           - Space complexity:
+               - Bridges:O(V+E)
+               - Articulation Points:O(V)
 
 **References**
 
