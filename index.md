@@ -301,9 +301,9 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
        - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
        - Space complexity: O(n + k) where n is number of servers, k is number of keys
 
-[View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/segment.cpp){:target="_blank"}<br>
-[View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/fenwick.cpp){:target="_blank"}<br>
-[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
+[View Segment tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/segment.cpp){:target="_blank"}<br>
+[View Fenwick Tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/fenwick.cpp){:target="_blank"}<br>
+[View Hash table code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
 
 ### 6. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
@@ -349,7 +349,7 @@ Improved Scalibility,enables faster data movement between microservices and regi
           - Encoding: O(n) (depends on match length)
           - Decoding: O(n)
        - Space complexity: O(1) to O(n) (depends on repetition)
-       - 
+         
 [View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/huffman.cpp){:target="_blank"}<br>
 [View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/lempel.cpp){:target="_blank"}<br>
 [View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/runLength.cpp){:target="_blank"}<br><br><br>
@@ -396,6 +396,7 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
 
 [View Persistent Segment tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/PersistentSegment.cpp){:target="_blank"}<br>
 [View Fenwick tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/Fenwick.cpp){:target="_blank"}<br><br><br>
+
 ### 8. Secure Authentication & Encryption
 In the world of digital payments,Visa ensures that every transaction is secure and authenticated.This is achieved through a combination of strong encryption,hashing techniques and optimized data structures that work together to protect sensitive information in real time.
 
