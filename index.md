@@ -418,7 +418,18 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
   </tr>
 </table>
 
-
+**Challenges:** compliance and regulatory pressure,secure session management
+**Marketing Benefits** Reduced Fraud and chargebacks,improved user experience and scalability for future technologies.
+**Design techniques and Performance analysis:**
+   - **Fermat's little therom**
+        - Time complexity: O(log e) for modular exponentiation where e is the exponent
+        - Space complexity: O(log n) for storing large integers
+   - **Red black Tree**
+        - Time complexity:
+            - insertion: O(log n)
+            - deletion : O(log n)
+        - Space complexity : O(n)
+         
 
 
 **References**
