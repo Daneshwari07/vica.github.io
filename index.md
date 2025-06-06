@@ -479,13 +479,25 @@ Visa's vast network of data centers relies on efficient task scheduling algorith
 ### 11.Resource Optimization in data centers
 VisaNet processes millions of transactions with high speed and accuracy. Resource optimization ensures that tasks are assigned to the most suitable servers and workloads are efficiently  balanced across data centers.
 
-The **Min-cost Max-Flow** algorithms can be used to optimize network traffic in VisaNet by modeling data centers, routers, and communication links as a flow network. ach link is assigned a capacity and cost.VisaNet can then route transaction data in a way that maximizes throughput while minimizing total transmission cost across the network.
+The **Min-cost Max-Flow** algorithms can be used to optimize network traffic in VisaNet by modeling data centers, routers, and communication links as a flow network. ach link is assigned a capacity and cost.VisaNet can then route transaction data in a way that maximizes throughput while minimizing total transmission cost across the network.Max flow algorithms, such as Karger’s, Dinic’s, and Ford-Fulkerson, can assist in determining optimal routes and balancing the load across servers, improving system performance and reliability.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/min_max.gif" alt="Run Length Encoding" width="500">
   <br>
   <strong>[9]</strong> Min-cost Max-flow for network traffic optimization
 </p>
 <br>
+
+**Challenges:** Managing vast network traffic, and minimizing congestion.
+
+**Market Benefits:** Improved system performance, and reliability.
+
+**Design techniques and Performance analysis:**
+    - **Fort-Fulkerson Algorithm:**
+         - Time complexity : O(E*V<sup>2</sup>) where E is the number of edges and V is the number of vertices
+         - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices<br>
+
+[View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
+    
 
 **References**
 
