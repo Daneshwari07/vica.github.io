@@ -429,7 +429,9 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
             - insertion: O(log n)
             - deletion : O(log n)
         - Space complexity : O(n)
-         
+
+
+[View Red Black tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RedBlackTree.cpp){:target="_blank"}<br><br><br>
 
 ### 9. Allocation of resources in data centers(visaNet)
  VisaNet,the global payment processing network of Visa, relies on a network of high-performance data centers to handle billions of transactions securely and in real time. Efficient resource allocation within these data centers is critical to maintaining low latency, high availability, and optimal performance.
@@ -446,6 +448,7 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
         - Space complexity: O(N<sup>2</sup>) where N is the number of tasks or resources
 
 [View code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/jobassignment.cpp){:target="_blank"}<br><br><br>
+
 ### 10. Scheduling Tasks in data centers
 Visa's vast network of data centers relies on efficient task scheduling algorithms to manage computational workloads and optimize resource utilization.**Topological Sort** can be used to schedule tasks and dependencies in directed acyclic graphs(DAGs),ensuring that tasks are execution in the correct order to meet the deadlines,minimize latency and maximize throughput
 <p align="center">
