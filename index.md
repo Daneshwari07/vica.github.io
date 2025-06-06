@@ -500,7 +500,25 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
     
 ### 12 Dispute Resolution Workflow Optimization in VisaNet
 Visa handles millions of transaction disputes globally through its robust dispute resolution system. Optimizing this workflow ensures faster, fairer handling of chargebacks and conflict cases.
-**Topological Sort** can be used in the dispute resolution process where each node represent a specific task and edges represent dependencies between steps.
+**Topological Sort** can be used in the dispute resolution process where each node represent a specific task and edges represent dependencies between steps.Topological sorting ensures that tasks are excured in the correct sequence, respecting deadlines and dependencies.This avoids invalid processing and delays.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/topo.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong> Topological Sort for Dispute Resolution Workflow
+</p>
+<br>
+
+Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure that agents are fairly and optimally assigned to cases based on skill sets,preferences or case complexity without conflicts or repeated reassignments.This helps balance workloads improve decision quality and enable faster resolution times.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/stable.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong> Stable marriage algorithm for resolution workflow optimization
+</p>
+<br>
+
+[View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br>
+[View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
+
 **References**
 
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
