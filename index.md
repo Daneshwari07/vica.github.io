@@ -347,6 +347,8 @@ Improved Scalibility,enables faster data movement between microservices and regi
           - Encoding: O(n) (depends on match length)
           - Decoding: O(n)
        - Space complexity: O(1) to O(n) (depends on repetition)
+       - 
+[View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/huffman.cpp){:target="_blank"}<br>
 
 
 ### 7.Transaction History Analytics in VisaNet 
