@@ -516,6 +516,18 @@ Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure t
 </p>
 <br>
 
+- **Challenges:** Fair resource allocation,scalability issues.
+
+- **Market Benefits:** Faster resolution time,Fair and efficient agent assignment and increased throughput and scalability.
+
+- **Design techniques and Performance analysis:**
+     - **Topological Sort** DFS based topological sort
+          - Time complexity:O(V+E)
+          - Space complexity:O(V+E) (for storing DAG)
+     - **Stable Marriage Algorithm** use gale-shapley algorithm to find stable match
+          - Time complexity:O(n<sup>2</sup>) where n is number of agents
+          - Space complexity:O(n<sup>2</sup>)
+            
 [View Topology sort code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br>
 [View Stable marriage code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/stable.cpp){:target="_blank"}<br><br><br>
 
