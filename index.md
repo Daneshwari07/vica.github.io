@@ -498,7 +498,9 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
 
 [View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
     
-
+### 12 Dispute Resolution Workflow Optimization in VisaNet
+Visa handles millions of transaction disputes globally through its robust dispute resolution system. Optimizing this workflow ensures faster, fairer handling of chargebacks and conflict cases.
+**Topological Sort** can be used in the dispute resolution process where each node represent a specific task and edges represent dependencies between steps.
 **References**
 
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
