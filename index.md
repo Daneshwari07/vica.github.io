@@ -481,7 +481,7 @@ VisaNet processes millions of transactions with high speed and accuracy. Resourc
 
 The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet by modeling data centers, routers, and communication links as a flow network. ach link is assigned a capacity and cost.VisaNet can then route transaction data in a way that maximizes throughput while minimizing total transmission cost across the network.Max flow algorithms, such as Karger’s, Dinic’s, and Ford-Fulkerson, can assist in determining optimal routes and balancing the load across servers, improving system performance and reliability.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/ford.gif" alt="Run Length Encoding" width="500">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/ford.gif" alt="Run Length Encoding">
   <br>
   <strong>[9]</strong> Ford-Fulkerson algorithm for network traffic optimization
 </p>
