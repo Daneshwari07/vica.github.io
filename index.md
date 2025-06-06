@@ -302,8 +302,8 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
        - Space complexity: O(n + k) where n is number of servers, k is number of keys
 
 [View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/segment.cpp){:target="_blank"}<br>
-[View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/Fenwick.cpp){:target="_blank"}<br>
-[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hashing.cpp){:target="_blank"}<br><br><br>
+[View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/fenwick.cpp){:target="_blank"}<br>
+[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
 
 ### 6. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
