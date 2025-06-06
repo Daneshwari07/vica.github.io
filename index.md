@@ -430,7 +430,7 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
             - deletion : O(log n)
         - Space complexity : O(n)
 
-[View RSA code using fermat's little therome](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RSA.cpp){:target="_blank"}
+[View RSA code using fermat's little therome](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RSA.cpp){:target="_blank"}<br>
 [View Red Black tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RedBlackTree.cpp){:target="_blank"}<br><br><br>
 
 ### 9. Allocation of resources in data centers(visaNet)
