@@ -444,7 +444,8 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
    - **Assignement Problem:** Optimization technique 
         - Time complexity: O(2<sup>N</sup> * N) where N is the number of tasks or resource
         - Space complexity: O(N<sup>2</sup>) where N is the number of tasks or resources
-    
+
+[View code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/jobassignment.cpp){:target="_blank"}<br><br><br>
 ### 10. Scheduling Tasks in data centers
 Visa's vast network of data centers relies on efficient task scheduling algorithms to manage computational workloads and optimize resource utilization.**Topological Sort** can be used to schedule tasks and dependencies in directed acyclic graphs(DAGs),ensuring that tasks are execution in the correct order to meet the deadlines,minimize latency and maximize throughput
 <p align="center">
