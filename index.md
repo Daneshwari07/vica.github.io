@@ -435,12 +435,6 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
  VisaNet,the global payment processing network of Visa, relies on a network of high-performance data centers to handle billions of transactions securely and in real time. Efficient resource allocation within these data centers is critical to maintaining low latency, high availability, and optimal performance.
  
 **Assignment Problem** can be utilized to optimize resource allocation within these data centers such as transaction validation,fraud detection and token generation are treated as jobs that need to be assigned to a set of available nodes or servers.By applying Assignment Problem for smaller problem size,VisaNet can assign tasks to resources in a way that minimizes overall latency, balances load, and adheres to service-level agreements.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/jobassignment.jpg" alt="Run Length Encoding" width="500">
-  <br>
-  <strong>[9]</strong> Assignment problem for resource allocation
-</p>
-<br>
 
 **Challenges :** Effective allocation of resources
 
