@@ -300,7 +300,11 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
        - Time complexity: O(1) for retriving,searching data.
        - Rebalancing on node failure: O(k/n), where k is number of keys, n servers
        - Space complexity: O(n + k) where n is number of servers, k is number of keys
-    
+
+[View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/segment.cpp){:target="_blank"}<br>
+[View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/Fenwick.cpp){:target="_blank"}<br>
+[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hashing.cpp){:target="_blank"}<br><br><br>
+
 ### 6. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
@@ -348,7 +352,7 @@ Improved Scalibility,enables faster data movement between microservices and regi
        - 
 [View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/huffman.cpp){:target="_blank"}<br>
 [View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/lempel.cpp){:target="_blank"}<br>
-[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/runLength.cpp){:target="_blank"}<br>
+[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/runLength.cpp){:target="_blank"}<br><br><br>
 
 ### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
@@ -473,4 +477,5 @@ Visa's vast network of data centers relies on efficient task scheduling algorith
 **References**
 
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
-[13] OpenGenus IQ. "Kahn's Algorithm for Topological Sort." Available at: [Fahadsultan]{https://fahadsultan.com/csc223/datastructs/graphs_topo_kahn.html:target="_blank"}.
+[13] OpenGenus IQ. "Kahn's Algorithm for Topological Sort." Available at: [Fahadsultan](https://fahadsultan.com/csc223/datastructs/graphs_topo_kahn.html){:target="_blank"}.
+Run-length encoding [Naukari](https://www.naukri.com/code360/library/run-length-encoding){:target="_blank"}
