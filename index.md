@@ -311,8 +311,6 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
   <strong>[9]</strong> Huffman coding for data compression
 </p>
 
-
-
 **Lempel-Ziv algorithms** can be used for compressing trasaction streams that exhibit repeated patterns such as recurring location codes, currency formats.Using LZ based compression in real-time logging system to detect and eliminate redundancy and making it suitable for both storage and low latency transmission between systems.
 
 **Run-Length Encoding** can be used to compress simpler analytics data with repetitive values such as status flags,transaction success/failure logs or time series data with constant intervals.It is a lightweight and effective for specific log formats where repeated vaues appear in long sequences.
@@ -349,7 +347,8 @@ Improved Scalibility,enables faster data movement between microservices and regi
        - Space complexity: O(1) to O(n) (depends on repetition)
        - 
 [View Huffman code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/huffman.cpp){:target="_blank"}<br>
-
+[View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/lempel.cpp){:target="_blank"}<br>
+[View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/runLength.cpp){:target="_blank"}<br>
 
 ### 7.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
