@@ -845,7 +845,7 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 **References** 
 
-[1] VisaNet (2024) VisaNet. A network you can trust. Available:[VisaNet](https://corporate.visa.com/en/about-visa/visanet.html){:target="_blank"}.
+[1] VisaNet (2024) VisaNet. A network you can trust. Available at:[VisaNet](https://corporate.visa.com/en/about-visa/visanet.html){:target="_blank"}.
 
 [2] Visa Direct makes it possible for fast, innovative and secure payments to travel across the world. Available:[Visa Direct ](https://corporate.visa.com/en/products/visa-direct.html){:target="_blank"}.
 
