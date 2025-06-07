@@ -49,7 +49,8 @@
 ## Contents
 - [Introduction](#introduction) – Domain intro 🌱  
 - [Objectives](#objectives) – Goals and targets 🎯  
-- [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)  
+- [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)
+- [Use Case Insights and Efficiency Metrics](#use-case-and-efficiency-overview) - Efficiency metrics 📊  
 - [Key Learning](#learnings) – Takeaways 🧠
 
 
