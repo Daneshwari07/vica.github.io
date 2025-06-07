@@ -562,8 +562,48 @@ In Visa, a millions of financial transactions occur every second fot that mainta
 [View Articulatr points code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/articulate.cpp){:target="_blank"}<br><br><br>
 
 ### 14.Edge Node Selection Using MST Algorithms in VisaNet
+VisaNet relies on a global network of edge data centers to process transactions with low latency and high reliability.Efficiently connecting these edge nodes is critical, not every center needs to link with every other.Visa can be used **Minimum spanning tree** algorithms to optimize paths. 
 
+Boruvka's algorithm: Visa can be used **Boruvka's algorithm** to optimize edge data center connectivity in parallel across regions.By repeatedly selecting the lowest-cost link for each node, Visa can rapidly form minimal-cost subnetworks.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Boruvka's.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong>Edge node selection using Kruskal's algorithm
+</p>
+<br>
 
+Kruskal's Algorithm: **Kruskal's algorithm** can be used to connect nodes without forming cycles.Visa can use this to build acyclic communication between edge centers, when upgrading cross region connectivity.It's well-suited when link cost vary significantly,such as across oceans or between low and high-bandwidth providers.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/kruskals.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong>Edge node selection using Kruskal's algorithm
+</p>
+<br>
+
+Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge data center at each step. Visa can use this method to grow its edge network from known backbone,such as a central infrastructure, ensuring each expansion prioritizes latency and reliability.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Prim.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong>Edge node selection using Prim's algorithm
+</p>
+<br>
+
+- **Challenges:** Handling changes in latency,outages and bandwidth across regions in real time.
+
+- **Market Benefits:** Faster Transation Processing,Cost efficiency.
+
+- **Design techniques and Performance analysis:**
+     -**Kruskal's Algorithm:** Greedy approach, Minimum Spanning Tree
+         - Time complexity: O(E log E)
+         - Space complexity: O(V+E)
+     -**Prim's Algorithm:** Greedy approach, Minimum Spanning Tree
+         - Time complexity:O(E log V) with priority queues (or (O(E + V log V)) with Fibonacci heaps)
+         - Space complexity:O(V+E)
+
+[View Kruskal's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kruskal.cpp){:target="_blank"}<br>
+[View Prim's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/prim.cpp){:target="_blank"}<br><br><br>
 **References**
 
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
