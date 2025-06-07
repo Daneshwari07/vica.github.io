@@ -102,7 +102,7 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 <br>
 # 3.Business Use Cases➡️Algorithmic Solutions
 
-### 1. **Card and BIN Resolution for Visa Transaction Routing**
+[**Card and BIN Resolution for Visa Transaction Routing**](./business/1.md)
 Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
 <p align="center">
