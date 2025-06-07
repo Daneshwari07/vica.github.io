@@ -14,6 +14,7 @@
 1. [Introduction](#introduction) – Domain intro 🌱  
 2. [Objectives](#objectives) – Goals and targets 🎯  
 3. [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)  
+4. [Use Case Insights and Efficiency Metrics](#use-case-and-efficiency-overview) - Efficiency metrics 📊  
 4. [Key Learning](#learnings) – Takeaways 🧠-->
 
 <!-- Navigation Bar -->
@@ -793,6 +794,12 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 [View Prim's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/prim.cpp){:target="_blank"}<br><br><br> 
 
 
+---
+<br>
+# 4.Use Case and Efficiency Overview
+
+|SI. No.|Business Use Case                                    |Data Structure and Algorithm Used| Efficency (Time, Space complexity)|
+|-------|-----------------------------------------------------|---------------------------------|-----------------------------------|
 
 **References** 
 
