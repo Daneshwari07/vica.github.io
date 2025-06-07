@@ -605,7 +605,36 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
           - Space complexity:O(V+E)
 
 [View Kruskal's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kruskal.cpp){:target="_blank"}<br>
-[View Prim's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/prim.cpp){:target="_blank"}<br><br><br>
+[View Prim's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/prim.cpp){:target="_blank"}<br><br><br> 
+
+### 15.Cross-Merchant Fraud Detection in VisaNet
+In financial fraud some merchants may collude to launder money or distribute fraudulent transactions across multiple accounts and terminals.These merchants might pass fake transactions among themselves, creating cyclic patterns that are difficult to detect with linear or rule-based systems. 
+
+Visa can be used **Kosaraju's** or **Tarjan** to detect strongly connected components(SCC) in the network.An SCC is a group of merchants where every merchant is reachable from every other, signaling tight interconnection.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/scc.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong>Kosaraju algorithm for strongly connected components
+</p>
+<br><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Tarjan.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
+  <br>
+  <strong>[9]</strong>Tarjan's algorithm for strongly connected component
+</p>
+<br>
+
+- **Market Benefits:** It strengthens anti-money laundering and fraud intelligence systmes.
+
+- **Design techniques and Performance analysis:**
+     - **Kosaraju's Algorithm:** Two-phase DFS (original and transposed graph)
+          - Time complexity: O(V+E)
+          - Space complexity: O(V)
+  
+[View Kosaraju's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kosaraju.cpp){:target="_blank"}<br>
+
 **References**
 
 []Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
@@ -613,3 +642,5 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 [13] OpenGenus IQ. "Kahn's Algorithm for Topological Sort." Available at: [Fahadsultan](https://fahadsultan.com/csc223/datastructs/graphs_topo_kahn.html){:target="_blank"}.
 
 Run-length encoding [Naukari](https://www.naukri.com/code360/library/run-length-encoding){:target="_blank"}
+
+[] "Kosaraju Algorithm for Strongly Connected Components" Available at:[Kosaraju](https://vansikasingh13.medium.com/kosarajus-algorithm-for-strongly-connected-components-85e806274603){:target="_blank"}
