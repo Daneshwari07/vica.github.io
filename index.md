@@ -102,7 +102,7 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 <br>
 # 3.Business Use Cases➡️Algorithmic Solutions
 
-[**1. Card and BIN Resolution for Visa Transaction Routing**](./business/1.md)  
+[1. Card and BIN Resolution for Visa Transaction Routing](./business/1.md)  
 [**2. Routing Algorithms for Transaction Optimization**](./business/2.md)  
 [**3. Location-Based Risk Check**](./business/3.md)  
 [**4. Network Load Balancing in VisaNet**](./business/4.md)  
