@@ -47,11 +47,11 @@
 ---
 
 ## Contents
-- [Introduction](#introduction) – Domain intro 🌱  
-- [Objectives](#objectives) – Goals and targets 🎯  
-- [Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)
-- [Use Case Insights and Efficiency Metrics](#use-case-and-efficiency-overview) - Efficiency metrics 📊  
-- [Key Learning](#learnings) – Takeaways 🧠
+- 🌱[Introduction](#introduction) – Domain overview and the payment ecosystem  
+- 🎯[Objectives](#objectives) – Targeting real-time problems with smart solutions 
+- 🧩[Business Use Cases ➡️ Algorithmic Solutions](#business-use-cases-and-mapping-algorithms) - Bridging Visa cases with DSA models
+- 📊[Use Case Insights and Efficiency Metrics](#use-case-and-efficiency-overview) - Measuring performance and algorithmic impact  
+- 🧠[Key Learning](#learnings) – Final reflections and takeaways
 
 
 ---
