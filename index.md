@@ -806,16 +806,40 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 |   2   |Routing Algorithms for Transaction Optimization      | Dijistra's algorithm            |   O((V+E)log V),O(V)              |
 |       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) |
 |       |                                                     | A* search                       |                                    |
-|   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n),O(n)                   |
+|   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n), O(n)                   |
 |   4   |Network load balancing in VisaNet                    | Segment Tree                    |  O(n), O(n)                        |
 |       |                                                     | Fenwick Tree                    |  O(n log n),O(n)                   |
 |       |                                                     |Hash Table with consistent Hashing| O(1), O(n+k)                      |
-|   5   |Secure Authentication and Encryption                 |Fermat's little theorem           |  O(log e),O(log n)                |
+|   5   |Secure Authentication and Encryption                 |Fermat's little theorem           |  O(log e), O(log n)                |
 |       |                                                     | Red-Black Tree                   |  O(log n), O(n)                   |
-|   6   |Keyword Detection in Customer Service Chatbots       | Aho-Corasick                     |  O(S),O(N+Z)                      |
+|   6   |Keyword Detection in Customer Service Chatbots       | Aho-Corasick                     |  O(S), O(N+Z)                      |
 |   7   |Allocation of resource in data centers               | Assignment Algorithm             |  O(2<sup>N</sup>+N),O(N<sup>2</sup>)|
-|   8   |Scheduling Tasks in data centers                     | Topological sort                 |  O(V+E),O(V+E)                    |
+|   8   |Scheduling Tasks in data centers                     | Topological sort                 |  O(V+E), O(V+E)                    |
 |   9   |Resource Optimization in data centers                | Ford-Fulkerson Algorithm         |  O(E*V<sup>2</sup>),O(V<sup>2</sup>)|
+|   10  |Optimal Transaction Bundle for Offers                | 0-1 KnapSack Algorithm           |  O(n*W), O(n*W)                     |
+|       |                                                     | House Robber                     |  O(n), O(1)                        |
+|   11  |Transaction Data Compression and Storage             | Huffman Coding                   |  O(n log n), O(n)                  |
+|       |                                                     | Lempel-Ziv                       |  O(n), O(n)                        |
+|       |                                                     | Run-Length Encoding              |  O(n), O(1)                        |
+|   12  |Transaction Sequence Compression for AI Models       | Suffix Tree                      |  O(n), O(n)                        |
+|   13  |Transaction History Analytics in VisaNet             | Persistent Segment Tree          |  O(log n), O(log n)                |
+|       |                                                     | Fenwick Tree                     |  O(log n), O(n log n)              |
+|   14  |Detecting fraud in Financial transaction             | Tries                            |  O(L), O(ALPHABET_SIZE*L)          |
+|       |                                                     | Hash-Table                       |  O(1), O(n)                        |
+|   15  |Risk Pattern Mining in VisaNet                       | Boyer Moore Algorithm            |  O(n*m), O(m+ALPHABET_SIZE)         |
+|       |                                                     | Knuth-Morris-Pratt Algorithm     |  O(n+m), O(m)                      |
+|       |                                                     | Rabin-Karp Algorithm             |  O(n+m), O(1)                      |
+|   16  |Cross-Merchant Fraud Detection in VisaNet            | Kosaraju's Algorithm             |  O(V+E), O(V)                      |
+|   17  |Merchant Similarity Scoring                          | Longest Common Subsequence       |  O(m*n), O(m*n)                    |
+|   18  |Global Payment Clustering                            | Union-Find Data structure        |  O(α(n)), O(n)                     |
+|   19  |Dispute Resolution Workflow Optimization in VisaNet  | Topological Sort                 |  O(V+E), O(V+E)                    |
+|       |                                                     | Stable Marriage Problem          |  O(n<sup>2</sup>), O(n<sup>2</sup>) |
+|   20  |Network Reliability using Bridges and Articulation poins|Bridges                        |  O(V+E), O(V+E)                     |
+|       |                                                     |  Articulation Points             |  O(V)                               |
+|   21  | Edge Node Selection Using MST Algorithm in VisaNet  |  Kruskal's Algorithm             |  O(E log E), O(V+E)                 |
+|       |                                                     |  Prim's Algorithm                |  O(E log V), O(V+E)                 |
+
+---
 
 **References** 
 
