@@ -568,7 +568,7 @@ Boruvka's algorithm: Visa can be used **Boruvka's algorithm** to optimize edge d
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Boruvka's.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Edge node selection using Kruskal's algorithm
+  <strong>[9]</strong>Edge node selection using Boruvka's algorithm
 </p>
 <br>
 
@@ -596,11 +596,12 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 - **Design techniques and Performance analysis:**
      -**Kruskal's Algorithm:** Greedy approach, Minimum Spanning Tree
-         - Time complexity: O(E log E)
-         - Space complexity: O(V+E)
+          - Time complexity: O(E log E)
+          - Space complexity: O(V+E)
+  
      -**Prim's Algorithm:** Greedy approach, Minimum Spanning Tree
-         - Time complexity:O(E log V) with priority queues (or (O(E + V log V)) with Fibonacci heaps)
-         - Space complexity:O(V+E)
+          - Time complexity:O(E log V) with priority queues (or (O(E + V log V)) with Fibonacci heaps)
+          - Space complexity:O(V+E)
 
 [View Kruskal's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kruskal.cpp){:target="_blank"}<br>
 [View Prim's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/prim.cpp){:target="_blank"}<br><br><br>
