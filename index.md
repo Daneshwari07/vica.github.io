@@ -102,7 +102,29 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 <br>
 # 3.Business Use Cases➡️Algorithmic Solutions
 
-[**Card and BIN Resolution for Visa Transaction Routing**](./business/1.md)
+[**1. Card and BIN Resolution for Visa Transaction Routing**](./business/1.md)  
+[**2. Routing Algorithms for Transaction Optimization**](./business/2.md)  
+[**3. Location-Based Risk Check**](./business/3.md)  
+[**4. Network Load Balancing in VisaNet**](./business/4.md)  
+[**5. Secure Authentication & Encryption**](./business/5.md)  
+[**6. Keyword Detection in Customer Service Chatbots**](./business/6.md)  
+[**7. Allocation of Resources in VisaNet Data Centers**](./business/7.md)  
+[**8. Scheduling Tasks in Data Centers**](./business/8.md)  
+[**9. Resource Optimization in Data Centers**](./business/9.md)  
+[**10. Optimal Transaction Bundle for Offers**](./business/10.md)  
+[**11. Transaction Data Compression & Storage**](./business/11.md)  
+[**12. Transaction Sequence Compression for AI Models**](./business/12.md)  
+[**13. Transaction History Analytics in VisaNet**](./business/13.md)  
+[**14. Detecting Fraud in Financial Transactions**](./business/14.md)  
+[**15. Risk Pattern Mining in VisaNet**](./business/15.md)  
+[**16. Cross-Merchant Fraud Detection in VisaNet**](./business/16.md)  
+[**17. Merchant Similarity Scoring**](./business/17.md)  
+[**18. Global Payment Clustering**](./business/18.md)  
+[**19. Dispute Resolution Workflow Optimization in VisaNet**](./business/19.md)  
+[**20. Network Reliability using Bridges and Articulation Points**](./business/20.md)  
+[**21. Edge Node Selection Using MST Algorithms in VisaNet**](./business/21.md)
+
+
 Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
 <p align="center">
