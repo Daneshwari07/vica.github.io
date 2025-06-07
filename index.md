@@ -134,7 +134,8 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 |       |                                                     | Hash Table                      |   O(1), O(n)                      |
 |       |                                                     | Skip Lists                      |   O(log n),O(n)                   |
 |   2   |Routing Algorithms for Transaction Optimization      | Dijistra's algorithm            |   O((V+E)log V),O(V)              |
-|       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) |                             |   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n), O(n)                   |
+|       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) | 
+|   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n), O(n)                   |
 |   4   |Network load balancing in VisaNet                    | Segment Tree                    |  O(n), O(n)                        |
 |       |                                                     | Fenwick Tree                    |  O(n log n),O(n)                   |
 |       |                                                     |Hash Table with consistent Hashing| O(1), O(n+k)                      |
