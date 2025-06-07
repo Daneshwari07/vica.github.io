@@ -102,7 +102,8 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 <br>
 # 3.Business Use Cases➡️Algorithmic Solutions
 
-### 1. **Card and BIN Resolution for Visa Transaction Routing**
+<details>
+<summary>### 1. **Card and BIN Resolution for Visa Transaction Routing**</summary>
 Trie: **Trie** can be used to quickly match the card's BIN prefix by checking each digit step-by step,it following a path through a tree.This makes it very fast to identify the issuing bank or country based on the card number's first few digits.
 
 <p align="center">
@@ -150,6 +151,7 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
 [View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie.cpp){:target="_blank"}<br>
 [View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash.cpp){:target="_blank"}<br>
 [View skip list code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/skipList.cpp){:target="_blank"}<br><br><br>
+</details>
 
 
 ### 2.**Routing Algorithms for Transaction Optimization**
