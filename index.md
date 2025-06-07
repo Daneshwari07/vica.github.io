@@ -81,6 +81,9 @@ The services provided by Visa include:
 ### **Tap-to-Pay**
 **Tap-to-pay**, now account for more than 50% of Visa face-to-face transactions globally as of 2023 [3].This rapid tap-to-pay growth highlights the need for ultra-fast, low-latency algorithms that enable instant transaction validation and tokenized security.
 
+### **Visa Shopping**
+**Visa Shopping**, allows users to shop anytime, anywhere — enabling seamless payments across millions of global merchants using a Visa card. This flexibility highlights the need for secure, low-latency systems and optimized algorithms to ensure smooth, real-time transaction experiences.
+
 ## Enhancing Visa's Services with Algorithms
 In today’s digital age, the efficiency and effectiveness of financial technology services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project explores the core functionalities of Visa’s global payment systems, applying the theoretical knowledge and practical skills acquired from courses in **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)**. By using advanced algorithmic techniques and innovative data structures, this project aims to propose solutions to real-world challenges.
 
@@ -807,9 +810,7 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 |       |                                                     | Hash Table                      |   O(1), O(n)                      |
 |       |                                                     | Skip Lists                      |   O(log n),O(n)                   |
 |   2   |Routing Algorithms for Transaction Optimization      | Dijistra's algorithm            |   O((V+E)log V),O(V)              |
-|       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) |
-|       |                                                     | A* search                       |                                    |
-|   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n), O(n)                   |
+|       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) |                             |   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n), O(n)                   |
 |   4   |Network load balancing in VisaNet                    | Segment Tree                    |  O(n), O(n)                        |
 |       |                                                     | Fenwick Tree                    |  O(n log n),O(n)                   |
 |       |                                                     |Hash Table with consistent Hashing| O(1), O(n+k)                      |
