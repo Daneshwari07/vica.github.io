@@ -596,10 +596,12 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 - **Design techniques and Performance analysis:**
      -**Kruskal's Algorithm:** Greedy approach, Minimum Spanning Tree
+  
          - Time complexity: O(E log E)
          - Space complexity: O(V+E)
   
      -**Prim's Algorithm:** Greedy approach, Minimum Spanning Tree
+  
          - Time complexity:O(E log V) with priority queues (or (O(E + V log V)) with Fibonacci heaps)
          - Space complexity:O(V+E)
 
