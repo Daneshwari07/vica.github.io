@@ -800,6 +800,16 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 |SI. No.|Business Use Case                                    |Data Structure and Algorithm Used| Efficency (Time, Space complexity)|
 |-------|-----------------------------------------------------|---------------------------------|-----------------------------------|
+|   1   |Card and BIN Resolution for Visa Transaction Routing | Tries                           |   O(L), O(ALPHABET_SIZE*L)        |
+|       |                                                     | Hash Table                      |   O(1), O(n)                      |
+|       |                                                     | Skip Lists                      |   O(log n),O(n)                   |
+|   2   |Routing Algorithms for Transaction Optimization      | Dijistra's algorithm            |   O((V+E)log V),O(V)              |
+|       |                                                     | Floyd-Warshall algorithm        | O(V<sup>3</sup>), O(V<sup>2</sup>) |
+|       |                                                     | A* search                       |                                    |
+|   3   |Location Based Risk Check                            | KD-Tree                         |  O(n log n),O(n)                   |
+|   4   |Network load balancing in VisaNet                    | Segment Tree                    |  O(n), O(n)                        |
+|       |                                                     | Fenwick Tree                    |  O(n log n),O(n)                   |
+|       |                                                     |Hash Table with consistent Hashing| O(1), O(n+k)                      |
 
 **References** 
 
