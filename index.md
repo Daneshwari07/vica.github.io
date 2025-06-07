@@ -405,11 +405,11 @@ Visa can use **House Robber** algorithm which ensures time-sensitive or conflict
 - **Design techniques and Performance analysis:**
   
      - **0-1 KnapSack Algorithm:** Dynamic Programming
-           - Time complexity: O(n*W) where n is number of items and W is the maximum capacity(benefits)
-           - Space complexity: O(n*W)
+          - Time complexity: O(n*W) where n is number of items and W is the maximum capacity(benefits)
+          - Space complexity: O(n*W)
      - **House Robber:** Dynamic Programming
-           - Time complexity: O(n)
-           - Space complexity: O(1)
+          - Time complexity: O(n)
+          - Space complexity: O(1)
 
 [View 0-1 Knapsack code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/knapsack.cpp){:target="_blank"}<br>
 [View House robber code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/robber.cpp){:target="_blank"}<br><br><br>
