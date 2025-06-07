@@ -380,9 +380,10 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
 **Market Benefits:** Improved system performance, and reliability.
 
 **Design techniques and Performance analysis:**
-    - **Fort-Fulkerson Algorithm:**
-          - Time complexity : O(E*V<sup>2</sup>) where E is the number of edges and V is the number of vertices
-          - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices<br>
+
+   - **Ford-Fulkerson Algorithm:**
+        - Time complexity : O(E*V<sup>2</sup>) where E is the number of edges and V is the number of vertices
+        - Space Complexity: O(V<sup>2</sup>) where V is the number of vertices<br>
 
 [View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
 
