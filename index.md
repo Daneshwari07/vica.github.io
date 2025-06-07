@@ -628,14 +628,14 @@ Visa can be used **Kosaraju's** or **Tarjan** to detect strongly connected compo
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/scc.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Kosaraju algorithm for strongly connected components
+  <strong>[23]</strong>Kosaraju algorithm for strongly connected components
 </p>
 <br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Tarjan.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Tarjan's algorithm for strongly connected component
+  <strong>[24]</strong>Tarjan's algorithm for strongly connected component
 </p>
 <br>
 
@@ -654,7 +654,7 @@ Visa's merchant verification system must detect fraudulent clones and fake merch
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/subsequence.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Longest common subsequence to compute similarity scores
+  <strong></strong>Longest common subsequence to compute similarity scores
 </p>
 <br>
 
@@ -673,7 +673,7 @@ Visa operates across regions with billions of transactions flowing through VisaN
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/UnionFind.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>global payment clustering using union-find
+  <strong>[25]</strong>global payment clustering using union-find
 </p>
 <br>
 
@@ -691,7 +691,7 @@ Visa handles millions of transaction disputes globally through its robust disput
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/topo.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong> Topological Sort for Dispute Resolution Workflow
+  <strong>[26]</strong> Topological Sort for Dispute Resolution Workflow
 </p>
 <br>
 
@@ -699,7 +699,7 @@ Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure t
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/stable.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong> Stable marriage algorithm for resolution workflow optimization
+  <strong></strong> Stable marriage algorithm for resolution workflow optimization
 </p>
 <br>
 
@@ -723,14 +723,14 @@ In Visa, a millions of financial transactions occur every second fot that mainta
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Bridge1.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong> Graph showing a bridge highlighted in red which ensures connectivity
+  <strong>[27]</strong> Graph showing a bridge highlighted in red which ensures connectivity
 </p>
 <br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/articulate.webp?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong> Articulation Points:Nodes whose removal increases the number of connected components in a graph.
+  <strong>[28]</strong> Articulation Points:Nodes whose removal increases the number of connected components in a graph.
 </p>
 <br>
 
@@ -756,7 +756,7 @@ Boruvka's algorithm: Visa can be used **Boruvka's algorithm** to optimize edge d
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Boruvka's.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Edge node selection using Boruvka's algorithm
+  <strong>[29]</strong>Edge node selection using Boruvka's algorithm
 </p>
 <br>
 
@@ -765,7 +765,7 @@ Kruskal's Algorithm: **Kruskal's algorithm** can be used to connect nodes withou
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/kruskals.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Edge node selection using Kruskal's algorithm
+  <strong>[30]</strong>Edge node selection using Kruskal's algorithm
 </p>
 <br>
 
@@ -774,7 +774,7 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Prim.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Edge node selection using Prim's algorithm
+  <strong>[31]</strong>Edge node selection using Prim's algorithm
 </p>
 <br>
 
@@ -885,12 +885,27 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 [20] FavTutor. "Boyer Moore Algorithm for Pattern Searching" Available at: [FavTutor](https://favtutor.com/blogs/boyer-moore-algorithm)
 
-[21] Wikipedia. "Ford-Fulkerson Algorithm Demo." Available at: [Wikipedia](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm){:target="_blank"}.
+[21] Wikipedia. "Knuth–Morris–Pratt algorithm" Available at: [Wikipedia](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm){:target="_blank"}.
 
 [22]  Wikipedia. "Rabin–Karp algorithm" Available at: [Wikipedia](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm){:target="_blank"}.
 
-[23]
+[23] Geeksforgeeks. "Strongly Connected Components" Available at: [GeeksforGeeks](https://www.geeksforgeeks.org/strongly-connected-components/){:target="_blank"}
 
+[24] "Kosaraju Algorithm for Strongly Connected Components" Available at:[Kosaraju](https://vansikasingh13.medium.com/kosarajus-algorithm-for-strongly-connected-components-85e806274603){:target="_blank"}
 
+[25] Wikipedia. "Tarjan's Strongly Connected Components Algorithm." Available at: [Wikipedia](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm){:target="_blank"}.
 
-[] "Kosaraju Algorithm for Strongly Connected Components" Available at:[Kosaraju](https://vansikasingh13.medium.com/kosarajus-algorithm-for-strongly-connected-components-85e806274603){:target="_blank"}
+[26] Hackerearth. "Suffix Trees" Available at: [Hackerearth](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/){:target="_blank"}.
+
+[27] Wikipedia. "Topological Sorting" Available at: [Wikipedia](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm){:target="_blank"}.
+
+[28] E-Olymp. "Bridges in Graph GIF." Available at: [E-Olymp](https://basecamp.eolymp.com/en/problems/1943){:target="_blank"}.
+
+[29] GeeksforGeeks. "Articulation Points or Cut Vertices in a Graph." Available at: [GeeksforGeeks](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/){:target="_blank"}.
+
+[30] GeeksforGeeks. "Boruvka's algorithm " Available at: [GeeksforGeeks](https://www.geeksforgeeks.org/boruvkas-algorithm-greedy-algo-9/){:target="_blank"}.
+
+[31] Make a GIF. "Kruskal Algorithm." Available at: [Make a GIF](https://makeagif.com/gif/kruskal-algorithm-IFvPaF){:target="_blank"}.
+
+[32] Stack Overflow. "Prim's Algorithm Info." Available at: [Stack Overflow](https://stackoverflow.com/tags/prims-algorithm/info){:target="_blank"}.
+
