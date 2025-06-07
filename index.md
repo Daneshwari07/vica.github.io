@@ -61,8 +61,8 @@
        alt="Visa services Screenshot" 
        width="500"> 
   <br>
-  [1] Visa and various services 
 </p>
+
 <p>Visa, a global leader in digital payments, offers a secure transfer of funds across the world through its advanced financial network.These include VisaNet, Visa Direct,Contactless payments,Ecommerce payment solutions.Visa plays a key role in the future of financial technology,making it a great example of how algorithms and data structures can improve transaction speed,prevend fraud and create a better experience for customers at a global scale.</p>
 The services provided by Visa include:
 - **VisaNet** : Global payment processing network.
@@ -72,13 +72,13 @@ The services provided by Visa include:
 - **Fraud Protection**: Keeps card details safe.
 
 ### **VisaNet**
-**VisaNet**, is the core global processing network of Visa.Approximately 65,000 card transactions per second are supported by VisaNet[2], which manages card transaction authorization, clearing, and settlement.It highlights the need of fast and efficient algorithms.
+**VisaNet**, is the core global processing network of Visa.Approximately 65,000 card transactions per second are supported by VisaNet[1], which manages card transaction authorization, clearing, and settlement.It highlights the need of fast and efficient algorithms.
 
 ### **Visa-Direct**
-**Visa-Direct**, supports real-time payments and is expected to help facilitate over $10 trillion in global money movement by 2026 [3].This highlights the need of root-optimized algorithms to handle data efficiently.
+**Visa-Direct**, supports real-time payments and is expected to help facilitate over $10 trillion in global money movement by 2026 [2].This highlights the need of root-optimized algorithms to handle data efficiently.
 
 ### **Tap-to-Pay**
-**Tap-to-pay**, now account for more than 50% of Visa face-to-face transactions globally as of 2023 [4].This rapid tap-to-pay growth highlights the need for ultra-fast, low-latency algorithms that enable instant transaction validation and tokenized security.
+**Tap-to-pay**, now account for more than 50% of Visa face-to-face transactions globally as of 2023 [3].This rapid tap-to-pay growth highlights the need for ultra-fast, low-latency algorithms that enable instant transaction validation and tokenized security.
 
 ## Enhancing Visa's Services with Algorithms
 In today’s digital age, the efficiency and effectiveness of financial technology services can be significantly enhanced through the strategic application of data structures and algorithms. This portfolio project explores the core functionalities of Visa’s global payment systems, applying the theoretical knowledge and practical skills acquired from courses in **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)**. By using advanced algorithmic techniques and innovative data structures, this project aims to propose solutions to real-world challenges.
@@ -104,7 +104,7 @@ Trie: **Trie** can be used to quickly match the card's BIN prefix by checking ea
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/trie.gif?raw=true" alt="Trie data structure" width="500">
   <br>
-[6] Trie structure for matching prefix in card
+[4] Trie structure for matching prefix in card
   <br>
 </p><br>
 
@@ -113,7 +113,7 @@ Hash Tables: **Hash tables** can be used in session and profile storage.It helps
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/HashTable.gif?raw=true" alt="Hash data structure">
   <br>
-[7] Hash tables for storing user session data
+[5] Hash tables for storing user session data
   <br>
 </p><br>
 
@@ -121,7 +121,7 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/skipList.gif?raw=true" alt="skip list data structure" width="500">
   <br>
-[8] skip list for dynamic updates
+[6] skip list for dynamic updates
   <br>
 </p><br>
 
@@ -154,7 +154,7 @@ skip list: **skip list** can be used in Dynamic card information updates,it hand
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/dijistra1.gif?raw=true" alt="Dijstra algorithm">
   <br>
-[5] Dijkstra's Algorithm for finding shortest routing paths
+[7] Dijkstra's Algorithm for finding shortest routing paths
   <br>
 </p><br>
 
@@ -163,7 +163,7 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/Floyd_warshall_gif.gif?raw=true" alt="Floyd-Warshall algorithm">
   <br>
-[6] Floyd-Warshall algorithm for finding shortest routing paths between all pairs.
+[7] Floyd-Warshall algorithm for finding shortest routing paths between all pairs.
   <br>
 </p><br>
 
@@ -213,7 +213,7 @@ VisaNet handles billions of real-time transactions daily across global data cent
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/segment1.gif?raw=true" alt="segment tree" width="600">
   <br>
-[9] Segment tree to store and update aggregate transaction load
+[10] Segment tree to store and update aggregate transaction load
   <br>
 </p><br>
 
@@ -222,7 +222,7 @@ In VisaNet's data centers the **Fenwick Tree** known as Binary indexed Tree play
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/fenwick.gif?raw=true" alt="Fenwick tree" width="600">
   <br>
-[9] Fenwick Tree to balce server-level loads
+[11] Fenwick Tree to balce server-level loads
   <br>
 </p><br>
 
@@ -232,7 +232,7 @@ Hash Table: a **Hash Table** combined with consistent Hashing is used to efficie
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/hashing.gif?raw=true" alt="Fenwick tree" width="500">
   <br>
-[9] Hash Table combined with consistent Hashing
+[12] Hash Table combined with consistent Hashing
   <br>
 </p><br>
 
@@ -275,7 +275,7 @@ In the world of digital payments,Visa ensures that every transaction is secure a
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/RSA_1.png" alt="Run Length Encoding" width="500">
   <br>
-  <strong>[9]</strong> RSA encryption 
+  <strong>[12]</strong> RSA encryption 
 </p>
 <br>
 
@@ -315,7 +315,7 @@ Visa's global customer service platforms receive thousands of queries per second
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/corasick.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Aho-Corasick used Keyword detection 
+  <strong>[13]</strong>Aho-Corasick used Keyword detection 
 </p>
 <br>
 
@@ -349,7 +349,7 @@ Visa's vast network of data centers relies on efficient task scheduling algorith
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/topological.gif" alt="Run Length Encoding" width="500">
   <br>
-  <strong>[9]</strong> Topological Sort optimizing task scheduling in VisaNet
+  <strong>[14]</strong> Topological Sort optimizing task scheduling in VisaNet
 </p>
 <br>
 
@@ -371,7 +371,7 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/ford.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong> Ford-Fulkerson algorithm for network traffic optimization
+  <strong>[15]</strong> Ford-Fulkerson algorithm for network traffic optimization
 </p>
 <br>
 
@@ -395,7 +395,7 @@ Visa can use **0-1 Knapsack** to select the best mix of rewards or cashback offe
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/knapsack.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>0-1 Knapsack for optimal transaction bundle offers
+  <strong></strong>0-1 Knapsack for optimal transaction bundle offers
 </p>
 <br>
 
@@ -423,7 +423,7 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Huffman.gif" alt="Huffman Tree" width="300" height="200">
   <br>
-  <strong>[9]</strong> Huffman coding for data compression
+  <strong>[16]</strong> Huffman coding for data compression
 </p>
 
 **Lempel-Ziv algorithms** can be used for compressing trasaction streams that exhibit repeated patterns such as recurring location codes, currency formats.Using LZ based compression in real-time logging system to detect and eliminate redundancy and making it suitable for both storage and low latency transmission between systems.
@@ -433,7 +433,7 @@ Visa can be used **Huffman Coading** to efficiently compress transaction metadat
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/run_length.png" alt="Run Length Encoding" width="300" height="200">
   <br>
-  <strong>[9]</strong> RLE for analyzing repetitive values
+  <strong>[17]</strong> RLE for analyzing repetitive values
 </p>
 
 **Challenges**
@@ -474,7 +474,7 @@ Visa increasingly uses AI models for fraud detection,personalization and behavio
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/suffix.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Trasaction sequence compression using suffix trees
+  <strong>[18]</strong>Trasaction sequence compression using suffix trees
 </p>
 <br>
 
@@ -494,7 +494,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/persistant_segment.png?raw=true" alt="segment tree" width="600">
   <br>
-[9] Persistant segment tree for maintaining versions
+[19] Persistant segment tree for maintaining versions
   <br>
 </p><br>
 
@@ -503,7 +503,7 @@ Visa processes billions of transactions globally and each cardholder has a growi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/fenwick1.jpg" alt="Huffman Tree" width="300" height="200">
   <br>
-  <strong>[9]</strong> Fenwick Tree to query cumulative trasaction total
+  <strong>[10]</strong> Fenwick Tree to query cumulative trasaction total
 </p>
 
 **Challenges**
@@ -536,7 +536,7 @@ Visa builds behavioral models based on user's historical transaction patterns su
  <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/trie1.gif?raw=true" alt="trie algorithm" width="600">
   <br>
-[8] Trie data structure
+[4] Trie data structure
   <br>
 </p><br>
 
@@ -545,7 +545,7 @@ Hash Table: Visa can be used hash tables to store the hashed information like us
 <p align="center">
   <img src="https://github.com/Daneshwari07/vica.github.io/blob/main/images/hash_table.gif?raw=true" alt="Hash data structure">
   <br>
-[7] Hash tables for storing user session data
+[5] Hash tables for storing user session data
   <br>
 </p><br>
 
@@ -578,7 +578,7 @@ Visa can scan transaction description, merchant category codes using fast string
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/boyer.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Risk pattern mining using Boyer-Moore string matching
+  <strong>[20]</strong>Risk pattern mining using Boyer-Moore string matching
 </p>
 <br>
 
@@ -587,7 +587,7 @@ Visa can scan transaction description, merchant category codes using fast string
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/kmp.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Knooth Morries Pratt algorithm
+  <strong>[21]</strong>Knooth Morries Pratt algorithm
 </p>
 <br>
 
@@ -596,7 +596,7 @@ Visa can scan transaction description, merchant category codes using fast string
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/rabin.gif?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
-  <strong>[9]</strong>Rabin karp algorithm to search multiple patterns at once.
+  <strong>[22]</strong>Rabin karp algorithm to search multiple patterns at once.
 </p>
 <br>
 
@@ -845,10 +845,52 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 
 **References** 
 
-[]Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
+[1] VisaNet (2024) VisaNet. A network you can trust. Available:[VisaNet](https://corporate.visa.com/en/about-visa/visanet.html){:target="_blank"}.
 
-[13] OpenGenus IQ. "Kahn's Algorithm for Topological Sort." Available at: [Fahadsultan](https://fahadsultan.com/csc223/datastructs/graphs_topo_kahn.html){:target="_blank"}.
+[2] Visa Direct makes it possible for fast, innovative and secure payments to travel across the world. Available:[Visa Direct ](https://corporate.visa.com/en/products/visa-direct.html){:target="_blank"}.
 
-Run-length encoding [Naukari](https://www.naukri.com/code360/library/run-length-encoding){:target="_blank"}
+[3] Contactless Payments with Visa. Available:[VisaNet](https://www.visa.co.in/pay-with-visa/contactless-payments/contactless-payments.html){:target="_blank"}
+
+[4] Gabriel Castro. "Trie Data Structure." Available at: [Gabriel Castro](https://gabrielcastro1028.medium.com/trie-data-structure-4a8becc97809){:target="_blank"}
+
+[5] Junmin Lee."Hash Tables — animations that will make you understand how they work" Available at: [Junmin Lee](https://junminlee3.medium.com/hash-tables-animations-that-will-make-you-understand-how-they-work-d1bcc850ba71){:target="_blank"}
+
+[6] Wikipedia. "Skip List." Available at: [Wikipedia](https://en.wikipedia.org/wiki/Skip_list){:target="_blank"}.
+
+[7] Sakshi Zod. "Shortest Path Algorithm" Available at: [Sakshi Zod](https://medium.com/@Sakshi_Zod/shortest-path-algorithm-af9de26a95b7){:target="_blank"}.
+
+[8] Wikimedia Commons. "KDTree-animation" Available at: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KDTree-animation.gif){:target="_blank"}.
+
+[9] Scaler Topics. "Segment Trees in Data Structure." Available at: [Scaler Topics](https://www.scaler.com/topics/data-structures/segment-trees-in-data-structure/){:target="_blank"}.
+
+[10] Medium. "A Visual Introduction to Fenwick Tree" Available at: [Medium](https://medium.com/carpanese/a-visual-introduction-to-fenwick-tree-89b82cac5b3c){:target="_blank"}.
+
+[11] Medium. "Load Balancing and Consistent Hashing" Available at: [Medium](https://medium.com/swlh/load-balancing-and-consistent-hashing-5fe0156035e1){:target="_blank"}. 
+
+[12]Davidmaiolo(2024). " Impact of Fermat’s Little Theorem in Cryptography". Available :[Davidmaiolo](https://www.davidmaiolo.com/2024/03/10/exploring-impact-fermats-little-theorem-cryptography/){:target="_blank"}.
+
+[13] FavTutor. "Aho-Corasick Algorithm for Pattern Searching". Available :[FavTutor](https://favtutor.com/blogs/aho-corasick-algorithm){:target="_blank"}.
+
+[14] OpenGenus IQ. "Kahn's Algorithm for Topological Sort." Available at: [Fahadsultan](https://fahadsultan.com/csc223/datastructs/graphs_topo_kahn.html){:target="_blank"}.
+
+[15] Wikipedia. "Ford-Fulkerson Algorithm Demo." Available at: [Wikipedia](https://en.m.wikipedia.org/wiki/File.gif){:target="_blank"}.
+
+[16] Wikimedia Commons. "Huffman Algorithm Demonstration." Available at: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File.gif){:target="_blank"}.
+
+[17] "Run-length encoding". Available at: [Naukari](https://www.naukri.com/code360/library/run-length-encoding){:target="_blank"}
+
+[18] Hackerearth. "Suffix Trees" Available at: [Hackerearth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-trees/tutorial/){:target="_blank"}.
+
+[19]Geeksforgeeks. "Persistent Segment Tree" Available at: [GeeksforGeeks](https://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/){:target="_blank"}
+
+[20] FavTutor. "Boyer Moore Algorithm for Pattern Searching" Available at: [FavTutor](https://favtutor.com/blogs/boyer-moore-algorithm)
+
+[21] Wikipedia. "Ford-Fulkerson Algorithm Demo." Available at: [Wikipedia](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm){:target="_blank"}.
+
+[22]  Wikipedia. "Rabin–Karp algorithm" Available at: [Wikipedia](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm){:target="_blank"}.
+
+[23]
+
+
 
 [] "Kosaraju Algorithm for Strongly Connected Components" Available at:[Kosaraju](https://vansikasingh13.medium.com/kosarajus-algorithm-for-strongly-connected-components-85e806274603){:target="_blank"}
