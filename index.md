@@ -183,7 +183,7 @@ Floyd-Warshall Algorithm: In Visa's network **Floyd-Warshall Algorithm** can be 
 [View Floyd-Warshall code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/floyd_warshall.cpp){:target="_blank"}<br><br><br>
 
 
-### 3.Location-Based Risk Check
+### 3.**Location-Based Risk Check**
 Visa can be used **KD-Tree** to perform fast and efficient geo-location lookups during a transaction.It is tree structure used for storing spacial data.It quickly find the nearest known locations to the user's current point by breaking down the location space into a grid.If a new location is too far from previously known ones and time gap is short,the system can flag it as potential fraud risk.
 
 <p align="center">
@@ -205,7 +205,7 @@ Visa can be used **KD-Tree** to perform fast and efficient geo-location lookups 
       - Space complexity: O(n) where n is number of stored points.
 
 
-### 4.Network load balancing in VisaNet
+### 4.**Network load balancing in VisaNet**
 
 VisaNet handles billions of real-time transactions daily across global data centers.It has multibal global data centers. **Segment Tree** can be used to store and update the aggregated transaction loads per region. This helps to quickly determine which region has capacity to handle more traffic.It updates load counters when transaction start or finish.
 
@@ -265,7 +265,7 @@ Improved speed,scalability,user experience and infrastructure cost efficiency.It
 [View Fenwick Tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/fenwick.cpp){:target="_blank"}<br>
 [View Hash table code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
 
-### 5. Secure Authentication & Encryption
+### 5. **Secure Authentication & Encryption**
 In the world of digital payments,Visa ensures that every transaction is secure and authenticated.This is achieved through a combination of strong encryption,hashing techniques and optimized data structures that work together to protect sensitive information in real time.
 
 **Fermat’s Little Theorem** plays a foundational role in RSA encryption, which is used by Visa to secure communication between users,banks and merchants.It enables the calculation of modular inverses and supports the integrity of public-private key operations used in digital signatures and secure handshakes. When creating public key two large prime numbers are chosen and multiplied together.Fermat's Little theorem assists in ensuring that these numbers have properties that make the encryption secure yet feasible to compute for those with the correct key[].The theorem aids in determining the modular inverse during the RSA key generation process which is also crucial for decrypting the received messages.
@@ -308,7 +308,7 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
 [View RSA code using fermat's little therome](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RSA.cpp){:target="_blank"}<br>
 [View Red Black tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/RedBlackTree.cpp){:target="_blank"}<br><br><br>
 
-### 6.Keyword Detection in Customer Service Chatbots
+### 6.**Keyword Detection in Customer Service Chatbots**
 Visa's global customer service platforms receive thousands of queries per second. To automate issue resolution and escalate critical cases, Visa uses real-time keyword detection in user chats.Visa can be used **Aho-Corasick** for multi-pattern matching, it allows tge system to instantly detect known issues keywords across a large dictionary. **Pratt's pattern search** which handles substring matching efficiently without preprocessing.It is used for smaller, more targeted phrase matching.
 
 <p align="center">
@@ -327,7 +327,7 @@ Visa's global customer service platforms receive thousands of queries per second
              - Search: O(N+Z) where N is the length of the input text, Z is the total number of matches found.
           - Space complexity: O(Sxσ) where S is the total length of all patterns,σ is alphabet size.
 
-### 7. Allocation of resources in data centers(visaNet)
+### 7. **Allocation of resources in data centers(visaNet)**
  VisaNet,the global payment processing network of Visa, relies on a network of high-performance data centers to handle billions of transactions securely and in real time. Efficient resource allocation within these data centers is critical to maintaining low latency, high availability, and optimal performance.
  
 **Assignment Problem** can be utilized to optimize resource allocation within these data centers such as transaction validation,fraud detection and token generation are treated as jobs that need to be assigned to a set of available nodes or servers.By applying Assignment Problem for smaller problem size,VisaNet can assign tasks to resources in a way that minimizes overall latency, balances load, and adheres to service-level agreements.
@@ -343,7 +343,7 @@ Visa's global customer service platforms receive thousands of queries per second
 
 [View code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/jobassignment.cpp){:target="_blank"}<br><br><br>
 
-### 8. Scheduling Tasks in data centers
+### 8. **Scheduling Tasks in data centers**
 Visa's vast network of data centers relies on efficient task scheduling algorithms to manage computational workloads and optimize resource utilization.**Topological Sort** can be used to schedule tasks and dependencies in directed acyclic graphs(DAGs),ensuring that tasks are execution in the correct order to meet the deadlines,minimize latency and maximize throughput
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/topological.gif" alt="Run Length Encoding" width="500">
@@ -363,7 +363,7 @@ Visa's vast network of data centers relies on efficient task scheduling algorith
 
 [View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br><br><br>
 
-### 9.Resource Optimization in data centers
+### 9.**Resource Optimization in data centers**
 VisaNet processes millions of transactions with high speed and accuracy. Resource optimization ensures that tasks are assigned to the most suitable servers and workloads are efficiently  balanced across data centers.
 
 The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet by modeling data centers, routers, and communication links as a flow network. ach link is assigned a capacity and cost.VisaNet can then route transaction data in a way that maximizes throughput while minimizing total transmission cost across the network.Max flow algorithms, such as Karger’s, Dinic’s, and Ford-Fulkerson, can assist in determining optimal routes and balancing the load across servers, improving system performance and reliability.
@@ -385,7 +385,7 @@ The **Max-Flow** algorithms can be used to optimize network traffic in VisaNet b
 
 [View max-flow code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/min_max.cpp){:target="_blank"}<br><br><br>
 
-### 10. Optimal Transaction Bundle for Offers
+### 10.**Optimal Transaction Bundle for Offers**
 Visa collaborates with merchants to offer personalized cashback, reward points and discounts.The challenge is to maximize user benefit by selecting the best combination of offers applicable to a user’s transaction history and current context.
 
 Visa can use **0-1 Knapsack** to select the best mix of rewards or cashback offers for a user within set limits like budget or offer count.This ensures the user receives the maximum possible benefit from eligible offers without violating any constraints.
@@ -413,7 +413,7 @@ Visa can use **House Robber** algorithm which ensures time-sensitive or conflict
 [View House robber code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/robber.cpp){:target="_blank"}<br><br><br>
 
 
-### 11. Transaction Data Compression & Storage
+### 11.**Transaction Data Compression & Storage**
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
 
@@ -462,7 +462,7 @@ Improved Scalibility,enables faster data movement between microservices and regi
 [View lempel-ziv code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/lempel.cpp){:target="_blank"}<br>
 [View run-length encoding code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/runLength.cpp){:target="_blank"}<br><br><br>
 
-### 12. Transaction Sequence Compression for AI Models
+### 12.**Transaction Sequence Compression for AI Models**
 
 Visa increasingly uses AI models for fraud detection,personalization and behavioral scoring.These models depend on clean, tokenized representations of transaction sequences.
 **Suffix Trees** can be used for indexing and compressing repeated subsequences in large transaction logs making it more efficient for pattern mining and anomaly detection.
@@ -484,7 +484,7 @@ Visa increasingly uses AI models for fraud detection,personalization and behavio
             
 [View suffix tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/suffix.cpp){:target="_blank"}<br><br><br>
             
-### 13.Transaction History Analytics in VisaNet 
+### 13.**Transaction History Analytics in VisaNet** 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
 
 **Persistent Segment tree** can be used to maintain historical versions of each user's transaction data. Instead of overwriting old data, a new version is created with each update which enables fast queries on past transaction states.This helps in fraud investigation and audit trails.
@@ -527,7 +527,7 @@ Real-Time Analytics, infrastructure efficiency,historical versioning supports re
 [View Persistent Segment tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/PersistentSegment.cpp){:target="_blank"}<br>
 [View Fenwick tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/Fenwick.cpp){:target="_blank"}<br><br><br>
 
-### 14.Detecting fraud in Financial transactions
+### 14.**Detecting fraud in Financial transactions**
 Visa builds behavioral models based on user's historical transaction patterns such as frequency,location,amount and merchant type.It can be use a **trie** to store known fraud card prefixes and merchant IDs based on past fraud.For every new transaction it checks the card number and merchant against this trie.Tries are fast at matching prefixes it can instantly find the fraud activity.
 
  <p align="center">
@@ -567,7 +567,7 @@ Hash Table: Visa can be used hash tables to store the hashed information like us
 [View Trie code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/trie1.cpp){:target="_blank"}<br>
 [View hashing code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/hash_table.cpp){:target="_blank"}<br><br><br>
 
-### 15. Risk Pattern Mining in VisaNet
+### 15.**Risk Pattern Mining in VisaNet**
 Visa processes millions of transaction records daily, many containing descriptions, merchant codes, or metadata. Fraudsters often embed subtle, repeated patterns in this text to disguise illegal activities.
 
 Visa can scan transaction description, merchant category codes using fast string matching techniques. **Boyer-Moore** algorithm can be used to efficiently search through large volumes of transaction logs for known fraud patterns. By scanning from right to left and skipping ahead based on mismatched characters, it reduces unnecessary comparisons.
@@ -617,7 +617,7 @@ Visa can scan transaction description, merchant category codes using fast string
 [View KMP algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kmp.cpp){:target="_blank"}<br>
 [View Rabin-Karp algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/rabin.cpp){:target="_blank"}<br><br><br>
 
-### 16.Cross-Merchant Fraud Detection in VisaNet
+### 16.**Cross-Merchant Fraud Detection in VisaNet**
 In financial fraud some merchants may collude to launder money or distribute fraudulent transactions across multiple accounts and terminals.These merchants might pass fake transactions among themselves, creating cyclic patterns that are difficult to detect with linear or rule-based systems. 
 
 Visa can be used **Kosaraju's** or **Tarjan** to detect strongly connected components(SCC) in the network.An SCC is a group of merchants where every merchant is reachable from every other, signaling tight interconnection.
@@ -645,7 +645,7 @@ Visa can be used **Kosaraju's** or **Tarjan** to detect strongly connected compo
   
 [View Kosaraju's algorithm code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/kosaraju.cpp){:target="_blank"}<br><br><br>
 
-### 17. Merchant Similarity Scoring
+### 17. **Merchant Similarity Scoring**
 Visa's merchant verification system must detect fraudulent clones and fake merchant entries.**Longest Common Subsequence**(LCS) can be used to apply on merchant names,address fields and transaction descriptions to compute similarity scores.Visa uses this during merchant onboarding,periodic audits and fraud detection pipelines.
 
 <p align="center">
@@ -664,7 +664,7 @@ Visa's merchant verification system must detect fraudulent clones and fake merch
             
 [View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/LCS.cpp){:target="_blank"}<br><br><br>
 
-### 18.Global Payment Clustering
+### 18.**Global Payment Clustering**
 Visa operates across regions with billions of transactions flowing through VisaNet daily. To analyze and optimize payment behavior across countries, industries or merchant types.Visa can be used **Union-Find** to dynamically group entities that share common traits such as merchant category, transaction location, payment processor.
 
 <p align="center">
@@ -682,7 +682,7 @@ Visa operates across regions with billions of transactions flowing through VisaN
           - Space complexity: O(n) where n is the number of transactions or merchant entities. 
 
     
-### 19.Dispute Resolution Workflow Optimization in VisaNet
+### 19.**Dispute Resolution Workflow Optimization in VisaNet**
 Visa handles millions of transaction disputes globally through its robust dispute resolution system. Optimizing this workflow ensures faster, fairer handling of chargebacks and conflict cases.
 **Topological Sort** can be used in the dispute resolution process where each node represent a specific task and edges represent dependencies between steps.Topological sorting ensures that tasks are excured in the correct sequence, respecting deadlines and dependencies.This avoids invalid processing and delays.
 <p align="center">
@@ -715,7 +715,7 @@ Stable Marriage Algorithm: **Stable Marriage Algorithm** can be used to ensure t
 [View Topology sort code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/topology.cpp){:target="_blank"}<br>
 [View Stable marriage code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/stable.cpp){:target="_blank"}<br><br><br>
 
-### 20.Network Reliability using Bridges and Articulation Points
+### 20.**Network Reliability using Bridges and Articulation Points**
 In Visa, a millions of financial transactions occur every second fot that maintaining a reliable and fault-tolerant network is essential.The algorithms such as finding **bridges and articulation points** help identify critical points of failure in the network.By identifying these points, Visa can implement redundancy measures and optimize network design to minimize downtime and improve overall network reliability.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/Bridge1.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
@@ -746,7 +746,7 @@ In Visa, a millions of financial transactions occur every second fot that mainta
 [View Articulatr points code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/articulate.cpp){:target="_blank"}<br><br><br>
 
 
-### 21.Edge Node Selection Using MST Algorithms in VisaNet
+### 21.**Edge Node Selection Using MST Algorithms in VisaNet**
 VisaNet relies on a global network of edge data centers to process transactions with low latency and high reliability.Efficiently connecting these edge nodes is critical, not every center needs to link with every other.Visa can be used **Minimum spanning tree** algorithms to optimize paths. 
 
 Boruvka's algorithm: Visa can be used **Boruvka's algorithm** to optimize edge data center connectivity in parallel across regions.By repeatedly selecting the lowest-cost link for each node, Visa can rapidly form minimal-cost subnetworks.
