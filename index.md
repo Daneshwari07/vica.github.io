@@ -810,6 +810,12 @@ Prim's algorithm: **Prim's algorithm** can be used to connect the closest edge d
 |   4   |Network load balancing in VisaNet                    | Segment Tree                    |  O(n), O(n)                        |
 |       |                                                     | Fenwick Tree                    |  O(n log n),O(n)                   |
 |       |                                                     |Hash Table with consistent Hashing| O(1), O(n+k)                      |
+|   5   |Secure Authentication and Encryption                 |Fermat's little theorem           |  O(log e),O(log n)                |
+|       |                                                     | Red-Black Tree                   |  O(log n), O(n)                   |
+|   6   |Keyword Detection in Customer Service Chatbots       | Aho-Corasick                     |  O(S),O(N+Z)                      |
+|   7   |Allocation of resource in data centers               | Assignment Algorithm             |  O(2<sup>N</sup>+N),O(N<sup>2</sup>)|
+|   8   |Scheduling Tasks in data centers                     | Topological sort                 |  O(V+E),O(V+E)                    |
+|   9   |Resource Optimization in data centers                | Ford-Fulkerson Algorithm         |  O(E*V<sup>2</sup>),O(V<sup>2</sup>)|
 
 **References** 
 
