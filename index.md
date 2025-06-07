@@ -320,7 +320,12 @@ Visa's global customer service platforms receive thousands of queries per second
 
 - **Market Benefits:** Improved customer satisfaction,reduced response time.
 
-- **Design techniques and Performance analysis:** 
+- **Design techniques and Performance analysis:**
+     - **Aho-Corasick:** Trie and KMP prefix
+          - Time complexity:
+             - Build : O(S) where S is the sum of lengths of all patterns
+             - Search: O(N+Z) where N is the length of the input text, Z is the total number of matches found.
+          - Space complexity: O(Sxσ) where S is the total length of all patterns,σ is alphabet size.
 
 ### 7. Allocation of resources in data centers(visaNet)
  VisaNet,the global payment processing network of Visa, relies on a network of high-performance data centers to handle billions of transactions securely and in real time. Efficient resource allocation within these data centers is critical to maintaining low latency, high availability, and optimal performance.
@@ -397,8 +402,17 @@ Visa can use **House Robber** algorithm which ensures time-sensitive or conflict
 - **Market Benefits:** Improves user engagement,increased transaction volume and higher merchant conversion rates.
 
 - **Design techniques and Performance analysis:**
+     - **0-1 KnapSack Algorithm:** Dynamic Programming
+           - Time complexity: O(n*W) where n is number of items and W is the maximum capacity(benefits)
+           - Space complexity: O(n*W)
+     - **House Robber:** Dynamic Programming
+           - Time complexity: O(n)
+           - Space complexity: O(1)
 
-  
+[View 0-1 Knapsack code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/knapsack.cpp){:target="_blank"}<br>
+[View House robber code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/robber.cpp){:target="_blank"}<br><br><br>
+
+
 ### 11. Transaction Data Compression & Storage
 Visa handles enormous volumes of transaction logs daily so it requires efficient storage and transmission.
 Visa can be used **Huffman Coading** to efficiently compress transaction metadata,log files by assigning shorter binary codes to frequently occuring values. This reduces the size of logs before storing or transmittting them across data centers.It also reduces data storage cost and improves retrival times.
@@ -461,6 +475,15 @@ Visa increasingly uses AI models for fraud detection,personalization and behavio
 </p>
 <br>
 
+- **Design techniques and Performance analysis:**
+     - **Suffix Tree**
+          - Time complexity:
+             - Build : O(n) using ukkonen's algorithm
+             - Search: O(m) where m is length of pattern
+          - Space complexity: O(n)
+            
+[View suffix tree code here](https://github.com/Daneshwari07/vica.github.io/blob/main/codes/suffix.cpp){:target="_blank"}<br><br><br>
+            
 ### 13.Transaction History Analytics in VisaNet 
 Visa processes billions of transactions globally and each cardholder has a growing transaction history that needs to be stored,queried and analyzed efficiently.
 
@@ -635,6 +658,11 @@ Visa's merchant verification system must detect fraudulent clones and fake merch
 - **Market Benefits:** Reduced merchant fraud,improved data integrity and trustworthy partner ecosystem.
 
 - **Design techniques and Performance analysis:**
+     - **Longest Common Subsequence:** Dynamic Programming
+          - Time complexity : O(m*n) where m and n are lengths of subsequence
+          - Space complexity: O(m*n) for storing the LCS table
+          - 
+[View code here](https://github.com/Daneshwari07/visa.github.io/blob/main/codes/LCS.cpp){:target="_blank"}<br><br><br>
 
 ### 18.Global Payment Clustering
 Visa operates across regions with billions of transactions flowing through VisaNet daily. To analyze and optimize payment behavior across countries, industries or merchant types.Visa can be used **Union-Find** to dynamically group entities that share common traits such as merchant category, transaction location, payment processor.
@@ -645,6 +673,13 @@ Visa operates across regions with billions of transactions flowing through VisaN
   <strong>[9]</strong>global payment clustering using union-find
 </p>
 <br>
+
+- **Design techniques and Performance analysis:**
+     - **Union-find Data structure**
+          - Time complexity:
+             - Find(x) : O(α(n)) α(n) is the inverse Ackermann function
+             - Union(x,y) : O(α(n))
+          - Space complexity: O(n) where n is the number of transactions or merchant entities. 
 
     
 ### 19.Dispute Resolution Workflow Optimization in VisaNet
