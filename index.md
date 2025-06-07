@@ -313,7 +313,7 @@ Red Black Tree: **Red Black Tree** are a type of self-balancing binary search tr
 Visa's global customer service platforms receive thousands of queries per second. To automate issue resolution and escalate critical cases, Visa uses real-time keyword detection in user chats.Visa can be used **Aho-Corasick** for multi-pattern matching, it allows tge system to instantly detect known issues keywords across a large dictionary. **Pratt's pattern search** which handles substring matching efficiently without preprocessing.It is used for smaller, more targeted phrase matching.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/corasick.png?raw=true" style=" width="500"; height: auto;" alt="Run Length Encoding">
+  <img src="https://raw.githubusercontent.com/Daneshwari07/vica.github.io/main/images/corasick.png?raw=true" style="width: 400px; height: auto;" alt="Run Length Encoding">
   <br>
   <strong>[13]</strong>Aho-Corasick used Keyword detection 
 </p>
