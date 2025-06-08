@@ -170,6 +170,13 @@ This portfolio demostrates how algorithms make Visa's services more efficient, i
 
 ---
 
+<br>
+# 5.Learnings
+
+This portfolio shows how the right choice of data structures and algorithms can help solve real business problems across different areas. Each use case explains which algorithms are used, the challenges involved, the benefits gained, and the design techniques applied. It also shows how the concepts learned in APS and DSA classes can be used to tackle practical issues with a focus on efficiency.
+
+By connecting classroom learning with real-world examples, the portfolio highlights how well-chosen algorithms can improve services and drive innovation. It emphasizes the value of understanding algorithms to make smarter, faster, and more effective solutions in everyday technology.
+
 **References** 
 
 [1] VisaNet (2024) VisaNet. A network you can trust. Available at:[VisaNet](https://corporate.visa.com/en/about-visa/visanet.html){:target="_blank"}.
