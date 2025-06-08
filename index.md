@@ -1,6 +1,6 @@
 **Course Name:** Algorithmic Problem Solving
 
-**Course Code:** 23ECSE309
+**Course Code:** 24ECSE309
 
 **Name:** Daneshwari Hanagandi
 
