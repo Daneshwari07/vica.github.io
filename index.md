@@ -177,6 +177,8 @@ This portfolio shows how the right choice of data structures and algorithms can 
 
 By connecting classroom learning with real-world examples, the portfolio highlights how well-chosen algorithms can improve services and drive innovation. It emphasizes the value of understanding algorithms to make smarter, faster, and more effective solutions in everyday technology.
 
+
+<br>
 **References** 
 
 [1] VisaNet (2024) VisaNet. A network you can trust. Available at:[VisaNet](https://corporate.visa.com/en/about-visa/visanet.html){:target="_blank"}.
